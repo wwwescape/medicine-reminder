@@ -1,0 +1,544 @@
+<resources>
+    <string name="app_name">Medicine Reminder</string>
+
+    <!-- Titles -->
+    <string name="title_today">Today</string>
+    <string name="title_courses">Courses</string>
+    <string name="title_course">Course</string>
+    <string name="title_new_course">New course</string>
+    <string name="title_edit_course">Edit course</string>
+    <string name="title_new_medicine">Add medicine</string>
+    <string name="title_medicine">Medicine</string>
+    <string name="title_next_step">Next step</string>
+    <string name="title_visit">Doctor\'s visit</string>
+    <string name="title_new_visit">Add a visit</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_documents">Documents</string>
+    <string name="title_document">Document</string>
+
+    <!-- Actions -->
+    <string name="action_back">Back</string>
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_close">Close</string>
+    <string name="action_save">Save</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_edit_course">Edit course</string>
+    <string name="action_delete_course">Delete course</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_remove">Remove</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_allow">Allow</string>
+    <string name="action_take">Take</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_take_all">Take all</string>
+    <string name="action_skip_all">Skip all</string>
+    <string name="action_snooze">Snooze</string>
+    <!-- The snooze length under "Snooze" on the reminder's button. -->
+    <string name="snooze_length_short">%1$d min</string>
+    <string name="action_mark_all_taken">Mark all taken</string>
+    <string name="action_log_dose">Log dose</string>
+    <string name="action_new_course">New course</string>
+    <string name="action_create_course">Create course</string>
+    <string name="action_add_medicine">Add medicine</string>
+    <string name="action_delete_medicine">Delete medicine</string>
+    <string name="action_add_file">Add file</string>
+    <string name="action_pick_date">Pick a date</string>
+    <string name="action_less">Less</string>
+    <string name="action_more">More</string>
+    <string name="action_previous_week">Previous week</string>
+    <string name="action_next_week">Next week</string>
+    <string name="action_back_to_today">Today</string>
+    <string name="action_call">Call</string>
+    <string name="action_open_in_other_app">Open in another app</string>
+    <string name="viewer_page_of">Page %1$d of %2$d</string>
+    <string name="viewer_no_preview">This file can\'t be shown here.</string>
+    <string name="action_open">Open</string>
+    <string name="action_share">Share</string>
+    <string name="action_add_document">Add document</string>
+    <string name="action_delete_document">Delete document</string>
+    <string name="action_save_to_documents">Save to Documents</string>
+    <string name="action_directions">Directions</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_view">View</string>
+    <string name="action_take_photo">Take a photo</string>
+    <string name="action_choose_photo">Choose from photos</string>
+    <string name="action_add_visit">Add a visit</string>
+    <string name="action_delete_visit">Delete visit</string>
+    <string name="action_add_to_calendar">Add to calendar</string>
+    <string name="toast_copied">Copied</string>
+    <string name="toast_no_app">No app on this device can do that</string>
+    <string name="toast_no_calendar">No calendar app on this device</string>
+
+    <!-- Today -->
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="today_taken_of">%1$d of %2$d taken</string>
+    <string name="today_as_needed">As needed</string>
+    <string name="today_coming_up">Coming up</string>
+    <string name="today_nothing_title">Nothing scheduled</string>
+    <string name="today_nothing_body">No doses are due on this day.</string>
+    <plurals name="as_needed_taken">
+        <item quantity="one">Taken once today</item>
+        <item quantity="other">Taken %1$d times today</item>
+    </plurals>
+    <string name="first_course_title">Start with a course</string>
+    <string name="first_course_body">A course is one prescription or treatment, such as \"Eye drops after the eye test\". Add its length, then the medicines in it and when to take them.</string>
+
+    <!-- Dose states -->
+    <string name="dose_taken_at">Taken %1$s</string>
+    <string name="dose_skipped">Skipped</string>
+    <string name="dose_due">Due now</string>
+    <string name="dose_missed">Missed</string>
+
+    <!-- Courses -->
+    <string name="courses_active">Active</string>
+    <string name="courses_upcoming">Upcoming</string>
+    <string name="courses_finished">Finished</string>
+    <string name="courses_empty_title">No courses yet</string>
+    <string name="courses_empty_body">Create a course for each prescription, then add its medicines.</string>
+    <string name="course_day_of">Day %1$d of %2$d</string>
+    <string name="course_day_ongoing">Day %1$d · ongoing</string>
+    <string name="course_starts">Starts %1$s</string>
+    <string name="course_finished">Finished %1$s</string>
+    <string name="course_dates">%1$s – %2$s</string>
+    <string name="course_dates_ongoing">From %1$s, ongoing</string>
+    <string name="adherence_percent">%1$d%% taken</string>
+    <string name="stat_taken">Taken</string>
+    <string name="stat_missed">Missed</string>
+    <string name="stat_skipped">Skipped</string>
+    <string name="stat_adherence">On track</string>
+    <string name="section_medicines">Medicines</string>
+    <string name="section_prescriptions">Prescriptions</string>
+    <string name="section_prescriptions_optional">Prescriptions (optional)</string>
+    <string name="prescriptions_hint">Tap to open. Touch and hold to save to Documents or remove.</string>
+    <string name="prescriptions_editor_hint">Photos or PDFs of the prescription. They\'re copied into the app, so the originals can be deleted.</string>
+    <string name="prescription_no_viewer">No app on this device can open this file</string>
+    <string name="remove_file_title">Remove this file?</string>
+    <string name="section_history">History</string>
+    <string name="section_visits">Doctor\'s visits</string>
+    <string name="history_hint">Tap a day to see its doses, or to fill in ones you took but didn\'t log.</string>
+    <string name="day_nothing_scheduled">Nothing was scheduled on this day.</string>
+    <string name="delete_course_title">Delete this course?</string>
+    <string name="delete_course_body">Its medicines, dose history, visits and prescription files are deleted too. Copies saved in Documents are kept. This can\'t be undone.</string>
+
+    <!-- Documents -->
+    <string name="documents_all">All</string>
+    <string name="documents_empty_title">Keep your health documents here</string>
+    <string name="documents_empty_body">Glasses prescriptions, lab reports, scans, insurance cards: anything worth having to hand, whether or not it belongs to a course. A course\'s prescriptions can be saved here too.</string>
+    <string name="document_from_course">Saved from the course \"%1$s\"</string>
+    <string name="field_document_title">Name</string>
+    <string name="section_document_kind">Kind</string>
+    <string name="field_document_date">Date on the document</string>
+    <string name="field_document_notes_hint">Right eye -1.25, left eye -1.50</string>
+    <string name="delete_document_title">Delete this document?</string>
+    <string name="delete_document_body">Its file is deleted from the app. A copy in a course, if there is one, is kept. This can\'t be undone.</string>
+    <string name="file_in_documents">Saved in Documents</string>
+    <string name="setting_save_to_documents">Also save to Documents</string>
+    <string name="setting_save_to_documents_subtitle">Keep a copy of each prescription added to a course, so it stays even after the course ends</string>
+    <string name="doc_prescription">Prescriptions</string>
+    <string name="doc_glasses">Glasses and lenses</string>
+    <string name="doc_lab_report">Lab reports</string>
+    <string name="doc_imaging">Scans and X-rays</string>
+    <string name="doc_discharge">Discharge summaries</string>
+    <string name="doc_vaccination">Vaccinations</string>
+    <string name="doc_insurance">Insurance</string>
+    <string name="doc_bill">Bills and receipts</string>
+    <string name="doc_other">Other</string>
+
+    <!-- Form sections -->
+    <string name="section_course">Course</string>
+    <string name="section_doctor_optional">Doctor and clinic (optional)</string>
+    <string name="section_medicine">Medicine</string>
+    <string name="section_when">When</string>
+    <string name="section_instructions">Instructions</string>
+    <string name="section_looks">How it looks</string>
+    <string name="section_notes">Notes</string>
+    <string name="section_visit">Visit</string>
+    <string name="section_visit_where">With</string>
+    <string name="section_document">Document</string>
+    <string name="field_times_a_day">Times a day</string>
+    <string name="dose_number">Dose %1$d</string>
+    <string name="time_taken">Another dose is already at that time</string>
+    <string name="field_reminders_hint">Ring at each time until you answer</string>
+    <string name="as_needed_hint">No reminders. Log a dose on the Today screen whenever you take one.</string>
+    <string name="field_instructions_hint">Anything else to remember</string>
+    <string name="field_medicine_notes_hint">What it\'s for, side effects to watch for</string>
+    <string name="field_course_notes_hint">Anything the doctor said to keep in mind</string>
+
+    <!-- Course editor -->
+    <string name="field_course_name">Course name</string>
+    <string name="field_course_name_hint">Eye drops after eye test</string>
+    <string name="field_condition">What it\'s for (optional)</string>
+    <string name="field_condition_hint">Dry eyes</string>
+    <string name="section_doctor">Doctor and clinic</string>
+    <string name="field_doctor_name">Doctor\'s name</string>
+    <string name="field_doctor_specialty">Specialty or department</string>
+    <string name="field_doctor_phone">Doctor\'s phone</string>
+    <string name="field_clinic_name">Hospital or clinic</string>
+    <string name="field_clinic_address">Address</string>
+    <string name="field_clinic_phone">Clinic phone</string>
+    <string name="field_patient_id">Patient or file number</string>
+    <string name="section_duration">Duration</string>
+    <string name="field_start_date">Starts</string>
+    <string name="duration_fixed">Fixed length</string>
+    <string name="duration_ongoing">Ongoing</string>
+    <string name="field_length_days">Number of days</string>
+    <string name="field_length_days_ends">Last day: %1$s</string>
+    <string name="field_notes">Notes (optional)</string>
+
+    <!-- Medicine editor -->
+    <string name="medicine_preview_name">Medicine name</string>
+    <string name="field_medicine_name">Medicine name</string>
+    <string name="field_strength">Strength (optional)</string>
+    <string name="field_strength_hint">500 mg, 0.5%</string>
+    <string name="section_shape">Shape</string>
+    <string name="section_color">Color</string>
+    <string name="section_color_first">First color</string>
+    <string name="section_color_second">Second color</string>
+    <string name="section_dose">Dose</string>
+    <string name="field_instructions">Instructions (optional)</string>
+    <string name="section_how_often">How often</string>
+    <string name="frequency_daily">Every day</string>
+    <string name="frequency_every_x_days">Every few days</string>
+    <string name="frequency_weekdays">Specific days</string>
+    <string name="frequency_as_needed">As needed</string>
+    <plurals name="frequency_every_x_days_summary">
+        <item quantity="one">Every day</item>
+        <item quantity="other">Every %1$d days</item>
+    </plurals>
+    <string name="field_interval_days">Every how many days</string>
+    <string name="field_reminders">Remind me</string>
+    <string name="section_medicine_dates">Dates</string>
+    <string name="field_starts">Starts</string>
+    <string name="field_ends">Ends</string>
+    <string name="date_with_course_start">With the course (%1$s)</string>
+    <string name="date_with_course_end">With the course (%1$s)</string>
+    <string name="date_ongoing">Ongoing</string>
+    <string name="section_photos">Photos (optional)</string>
+    <string name="photos_hint">Shown with each reminder, so you can check you\'re taking the right thing.</string>
+    <string name="photo_package">Pack</string>
+    <string name="photo_package_hint">Box, strip, bottle or tube</string>
+    <string name="photo_dose">Dose</string>
+    <string name="photo_dose_hint">The tablet itself, or the syrup in its spoon</string>
+    <string name="action_add_next_step">Add the next step</string>
+    <string name="add_next_step_hint">For a dose that changes over time, such as 4 times a day for a week, then 3 times a day. The next step starts as a copy of this one.</string>
+    <string name="next_step_hint">Starts the day after the previous step ends. Change the dose or times for this step.</string>
+    <string name="next_step_hint_no_end">The previous step runs until the course ends. Give it an end date, then set when this step starts.</string>
+    <string name="delete_medicine_title">Delete this medicine?</string>
+    <string name="delete_medicine_body">Its dose history is deleted too. This can\'t be undone.</string>
+
+    <!-- Instruction suggestions -->
+    <string name="instr_after_food">After food</string>
+    <string name="instr_before_food">Before food</string>
+    <string name="instr_with_food">With food</string>
+    <string name="instr_with_water">With a full glass of water</string>
+    <string name="instr_empty_stomach">On an empty stomach</string>
+    <string name="instr_both_eyes">Both eyes</string>
+    <string name="instr_left_eye">Left eye</string>
+    <string name="instr_right_eye">Right eye</string>
+    <string name="instr_group_eyes">Eyes</string>
+    <string name="instr_group_ears">Ears</string>
+    <string name="instr_group_nose">Nose</string>
+    <string name="instr_group_mouth">Mouth</string>
+    <string name="instr_group_food">Food</string>
+    <string name="instr_group_how">How</string>
+    <string name="instr_group_where">Where</string>
+    <string name="instr_group_skin">Skin</string>
+    <string name="instr_swallow_whole">Swallow whole</string>
+    <string name="instr_chew">Chew</string>
+    <string name="instr_dissolve">Dissolve in water</string>
+    <string name="instr_sprinkle">Open and sprinkle on food</string>
+    <string name="instr_measure">Use the measuring cup</string>
+    <string name="instr_with_spacer">With a spacer</string>
+    <string name="instr_site_abdomen">Abdomen</string>
+    <string name="instr_site_thigh">Thigh</string>
+    <string name="instr_site_arm">Upper arm</string>
+    <string name="instr_site_buttock">Buttock</string>
+    <string name="instr_site_chest">Chest</string>
+    <string name="instr_site_back">Back</string>
+    <string name="instr_site_hip">Hip</string>
+    <string name="instr_keep_cold">Keep in the fridge</string>
+    <string name="instr_wash_hands">Wash hands after</string>
+    <string name="instr_remove_old_patch">Remove the old patch first</string>
+    <string name="instr_new_spot">Use a new spot each time</string>
+    <string name="instr_rectal">Rectal</string>
+    <string name="instr_vaginal">Vaginal</string>
+    <string name="instr_at_bedtime">At bedtime</string>
+    <string name="instr_both_ears">Both ears</string>
+    <string name="instr_left_ear">Left ear</string>
+    <string name="instr_right_ear">Right ear</string>
+    <string name="instr_left_nostril">Left nostril</string>
+    <string name="instr_right_nostril">Right nostril</string>
+    <string name="instr_by_mouth">By mouth</string>
+    <string name="instr_under_tongue">Under the tongue</string>
+    <string name="instr_in_water">Mixed in water</string>
+    <string name="instr_each_nostril">Each nostril</string>
+    <string name="instr_shake_well">Shake well</string>
+    <string name="instr_rinse_mouth">Rinse mouth after</string>
+    <string name="instr_thin_layer">Thin layer</string>
+    <string name="instr_affected_area">On the affected area</string>
+    <string name="instr_rotate_site">Rotate the injection site</string>
+    <string name="instr_use_mask">With the mask</string>
+    <string name="instr_mouthpiece">With the mouthpiece</string>
+    <string name="instr_clean_cup">Clean the cup after</string>
+
+    <!-- Shapes -->
+    <string name="shape_round">Round tablet</string>
+    <string name="shape_round_scored">Scored tablet</string>
+    <string name="shape_round_halves">Two-color tablet</string>
+    <string name="shape_oval">Oval tablet</string>
+    <string name="shape_caplet">Caplet</string>
+    <string name="shape_caplet_scored">Scored caplet</string>
+    <string name="shape_capsule">Capsule</string>
+    <string name="shape_softgel">Softgel</string>
+    <string name="shape_triangle">Triangle tablet</string>
+    <string name="shape_square">Square tablet</string>
+    <string name="shape_diamond">Diamond tablet</string>
+    <string name="shape_hexagon">Hexagon tablet</string>
+    <string name="shape_heart">Heart tablet</string>
+    <string name="shape_drops">Drops</string>
+    <string name="shape_syrup">Syrup</string>
+    <string name="shape_nasal_spray">Nasal spray</string>
+    <string name="shape_inhaler">Inhaler</string>
+    <string name="shape_nebulizer">Nebulizer</string>
+    <string name="shape_syringe">Syringe</string>
+    <string name="shape_pen">Injection pen</string>
+    <string name="shape_vial">Vial</string>
+    <string name="shape_ampoule">Ampoule</string>
+    <string name="shape_tube">Cream or ointment</string>
+    <string name="shape_patch">Patch</string>
+    <string name="shape_sachet">Sachet</string>
+    <string name="shape_suppository">Suppository</string>
+
+    <!-- Dose units -->
+    <plurals name="unit_tablet">
+        <item quantity="one">%1$s tablet</item>
+        <item quantity="other">%1$s tablets</item>
+    </plurals>
+    <plurals name="unit_capsule">
+        <item quantity="one">%1$s capsule</item>
+        <item quantity="other">%1$s capsules</item>
+    </plurals>
+    <plurals name="unit_drop">
+        <item quantity="one">%1$s drop</item>
+        <item quantity="other">%1$s drops</item>
+    </plurals>
+    <plurals name="unit_puff">
+        <item quantity="one">%1$s puff</item>
+        <item quantity="other">%1$s puffs</item>
+    </plurals>
+    <plurals name="unit_spray">
+        <item quantity="one">%1$s spray</item>
+        <item quantity="other">%1$s sprays</item>
+    </plurals>
+    <plurals name="unit_ml">
+        <item quantity="one">%1$s ml</item>
+        <item quantity="other">%1$s ml</item>
+    </plurals>
+    <plurals name="unit_mg">
+        <item quantity="one">%1$s mg</item>
+        <item quantity="other">%1$s mg</item>
+    </plurals>
+    <plurals name="unit_unit">
+        <item quantity="one">%1$s unit</item>
+        <item quantity="other">%1$s units</item>
+    </plurals>
+    <plurals name="unit_application">
+        <item quantity="one">%1$s application</item>
+        <item quantity="other">%1$s applications</item>
+    </plurals>
+    <plurals name="unit_patch">
+        <item quantity="one">%1$s patch</item>
+        <item quantity="other">%1$s patches</item>
+    </plurals>
+    <plurals name="unit_injection">
+        <item quantity="one">%1$s injection</item>
+        <item quantity="other">%1$s injections</item>
+    </plurals>
+    <plurals name="unit_sachet">
+        <item quantity="one">%1$s sachet</item>
+        <item quantity="other">%1$s sachets</item>
+    </plurals>
+    <plurals name="unit_suppository">
+        <item quantity="one">%1$s suppository</item>
+        <item quantity="other">%1$s suppositories</item>
+    </plurals>
+    <plurals name="unit_teaspoon">
+        <item quantity="one">%1$s teaspoon</item>
+        <item quantity="other">%1$s teaspoons</item>
+    </plurals>
+    <plurals name="unit_tablespoon">
+        <item quantity="one">%1$s tablespoon</item>
+        <item quantity="other">%1$s tablespoons</item>
+    </plurals>
+    <plurals name="unit_session">
+        <item quantity="one">%1$s session</item>
+        <item quantity="other">%1$s sessions</item>
+    </plurals>
+    <plurals name="unit_respule">
+        <item quantity="one">%1$s respule</item>
+        <item quantity="other">%1$s respules</item>
+    </plurals>
+    <plurals name="unit_minute">
+        <item quantity="one">%1$s minute</item>
+        <item quantity="other">%1$s minutes</item>
+    </plurals>
+    <plurals name="unit_gram">
+        <item quantity="one">%1$s g</item>
+        <item quantity="other">%1$s g</item>
+    </plurals>
+    <plurals name="unit_pump">
+        <item quantity="one">%1$s pump</item>
+        <item quantity="other">%1$s pumps</item>
+    </plurals>
+    <plurals name="unit_dose">
+        <item quantity="one">%1$s dose</item>
+        <item quantity="other">%1$s doses</item>
+    </plurals>
+
+    <!-- Reminder -->
+    <string name="reminder_title">Time for your medicine</string>
+    <string name="notification_channel_reminders">Dose reminders</string>
+    <string name="notification_channel_reminders_description">Rings when a dose is due, until you answer it</string>
+    <string name="notification_title_one">Time for %1$s</string>
+    <string name="notification_title_many">Time for %1$d medicines</string>
+    <string name="notification_channel_appointments">Doctor\'s visits</string>
+    <string name="notification_channel_appointments_description">Reminders ahead of follow-up visits</string>
+
+    <!-- Doctor\'s visits -->
+    <string name="visit_default_title">Follow-up visit</string>
+    <string name="field_visit_title">What it\'s for</string>
+    <string name="field_visit_date">Date</string>
+    <string name="field_visit_time">Time</string>
+    <string name="field_visit_place">Hospital or clinic</string>
+    <string name="field_visit_notes">Notes (optional)</string>
+    <string name="field_visit_notes_hint">Bring the old prescription, come fasting</string>
+    <string name="section_visit_reminders">Remind me</string>
+    <string name="visit_remind_week">A week before</string>
+    <string name="visit_remind_day">A day before</string>
+    <string name="visit_remind_3_hours">3 hours before</string>
+    <string name="visit_remind_hour">An hour before</string>
+    <string name="delete_visit_title">Delete this visit?</string>
+
+    <!-- Permissions -->
+    <string name="permission_notifications_title">Allow reminders</string>
+    <string name="permission_notifications_body">Reminders are notifications that ring when a dose is due. Without this permission, nothing can remind you.</string>
+    <string name="permission_exact_title">Ring on time</string>
+    <string name="permission_exact_body">Allow \"Alarms &amp; reminders\" so doses ring on the minute, even when the phone is idle. Without it, reminders can be several minutes late.</string>
+    <string name="permission_full_screen_title">Show reminders full screen</string>
+    <string name="permission_full_screen_body">Lets a due dose fill the screen, even when the phone is locked, so it\'s hard to miss.</string>
+
+    <!-- Settings -->
+    <string name="section_reminders">Reminders</string>
+    <string name="setting_snooze">Snooze length</string>
+    <plurals name="minutes">
+        <item quantity="one">%1$d minute</item>
+        <item quantity="other">%1$d minutes</item>
+    </plurals>
+    <string name="setting_follow_up">Remind again if unanswered</string>
+    <plurals name="follow_up_every">
+        <item quantity="one">After %1$d minute, up to 3 times</item>
+        <item quantity="other">After %1$d minutes, up to 3 times</item>
+    </plurals>
+    <string name="follow_up_off">Off</string>
+    <string name="setting_full_screen">Full-screen reminders</string>
+    <string name="setting_full_screen_subtitle">Show a due dose over the lock screen, like an alarm</string>
+    <string name="setting_test_reminder">Test the reminder</string>
+    <string name="setting_test_reminder_subtitle">See and hear a reminder for a sample medicine</string>
+    <string name="test_reminder_body">Rings with the reminder sound and shows the full-screen reminder for a sample medicine, until you tap any button. Nothing is logged.\n\nTo see it as it appears on the lock screen, choose 10 seconds, then lock your phone.</string>
+    <string name="action_test_now">Now</string>
+    <string name="action_test_later">In %1$d seconds</string>
+    <string name="toast_test_scheduled">The test reminder will ring in %1$d seconds</string>
+    <string name="toast_allow_notifications">Allow notifications first, under Access below</string>
+    <string name="test_reminder_medicine">Sample medicine</string>
+    <string name="test_reminder_course">Test reminder</string>
+    <string name="action_stop">Stop</string>
+    <string name="setting_sound">Sound and vibration</string>
+    <string name="setting_sound_subtitle">Shaking pills, on repeat until you answer. Change it in Android\'s settings.</string>
+    <!-- Pixabay\'s attribution wording; %1$s is the author, %2$s is Pixabay, each a link. -->
+    <string name="sound_credit">Reminder sound: Sound Effect by %1$s from %2$s</string>
+    <string name="section_access">Access</string>
+    <string name="setting_access_notifications">Notifications</string>
+    <string name="setting_access_exact">Alarms and reminders</string>
+    <string name="setting_access_full_screen">Full-screen notifications</string>
+    <string name="access_granted">Allowed</string>
+    <string name="access_required">Not allowed — reminders may be missed</string>
+
+    <!-- Settings: appearance -->
+    <string name="section_appearance">Appearance</string>
+    <string name="setting_dynamic_color">Dynamic Color (Material You)</string>
+    <string name="setting_dynamic_color_subtitle">Sync with wallpaper colors</string>
+    <string name="setting_color_theme">Color Theme</string>
+    <string name="setting_theme">Theme</string>
+    <string name="setting_week_start">Week starts on</string>
+    <string name="theme_mode_light">Light</string>
+    <string name="theme_mode_dark">Dark</string>
+    <string name="theme_mode_system">System Default</string>
+    <string name="color_theme_default">App Default</string>
+    <string name="color_theme_ocean">Ocean</string>
+    <string name="color_theme_forest">Forest</string>
+    <string name="color_theme_sunset">Sunset</string>
+    <string name="color_theme_grape">Grape</string>
+    <string name="color_theme_rose">Rose</string>
+    <string name="color_theme_slate">Slate</string>
+    <string name="color_theme_gold">Gold</string>
+    <string name="color_theme_teal">Teal</string>
+    <string name="color_theme_plum">Plum</string>
+    <string name="color_theme_moss">Moss</string>
+    <string name="color_theme_coral">Coral</string>
+    <string name="color_theme_indigo">Indigo</string>
+    <string name="color_theme_mustard">Mustard</string>
+    <string name="color_theme_crimson">Crimson</string>
+    <string name="color_theme_mint">Mint</string>
+    <string name="color_theme_periwinkle">Periwinkle</string>
+    <string name="setting_theme_contrast">Contrast</string>
+    <string name="contrast_standard">Standard</string>
+    <string name="contrast_medium">Medium</string>
+    <string name="contrast_high">High</string>
+    <string name="setting_pure_dark">Pure Black</string>
+    <string name="setting_pure_dark_subtitle">True black background in dark theme</string>
+    <string name="setting_absolute_dark">Absolute Black</string>
+    <string name="setting_absolute_dark_subtitle">Flatten every surface to black in dark theme</string>
+
+    <!-- Settings: backup -->
+    <string name="section_backup">Backup</string>
+    <string name="setting_export">Export data</string>
+    <string name="setting_export_subtitle">Save everything, files included, as one ZIP</string>
+    <string name="setting_import">Import data</string>
+    <string name="setting_import_subtitle">Restore from an exported ZIP</string>
+    <string name="backup_working">Working…</string>
+    <string name="backup_summary">%1$d courses · %2$d medicines · %3$d dose records · %4$d visits · %5$d documents · %6$d files</string>
+    <string name="backup_confirm_title">Replace everything with this backup?</string>
+    <string name="backup_made_on">Made %1$s</string>
+    <string name="backup_confirm_body">Everything in the app now (courses, medicines, history, visits, documents, files and settings) will be replaced. This can\'t be undone, so export first if you want to keep it.</string>
+    <string name="action_replace">Replace</string>
+    <string name="backup_exported_title">Backup saved</string>
+    <string name="backup_exported_body">%1$s\n\nKeep it somewhere safe. It holds your health records, unencrypted.</string>
+    <string name="backup_restored_title">Backup restored</string>
+    <string name="backup_failed_title">Couldn\'t use that file</string>
+    <string name="backup_failed_not_backup">That isn\'t a Medicine Reminder backup. Choose a ZIP made with Export data.</string>
+    <string name="backup_failed_newer">This backup is from a newer version of Medicine Reminder. Update the app, then try again.</string>
+    <string name="backup_failed_incomplete">This backup is missing some of its files, so it wasn\'t used. Nothing was changed.</string>
+    <string name="backup_failed_unreadable">The file couldn\'t be read or written. Nothing was changed.</string>
+
+    <!-- Settings: about -->
+    <string name="section_about">About</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="privacy_statement_body">Medicine Reminder works entirely on your device. Your courses, medicines, dose history and prescription files stay on this phone (and in your own Android backup, if it\'s on). There\'s no account, no analytics and no internet access.</string>
+    <string name="section_privacy_policy">Privacy Policy</string>
+    <string name="section_open_source_licenses">Open-source licenses</string>
+    <string name="settings_row_licenses_subtitle">Third-party software notices</string>
+
+    <!-- Licenses -->
+    <string name="section_licenses_intro_title">Compliance &amp; Credits</string>
+    <string name="section_licenses_intro_body">Medicine Reminder is built using world-class open-source software. Below is a list of the libraries that make this app possible.</string>
+    <string name="license_badge_apache">Apache 2.0</string>
+    <string name="license_badge_android_sdk">Android SDK License</string>
+    <string name="library_version_license_format">%1$s • %2$s</string>
+    <string name="licenses_footer_format">%1$s © %2$d. All trademarks are the property of their respective owners.</string>
+    <string name="lib_desc_compose">UI toolkit for native Android</string>
+    <string name="lib_desc_core_ktx">Kotlin extensions for Android core APIs</string>
+</resources>

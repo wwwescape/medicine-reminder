@@ -1,0 +1,10 @@
+com.wwwescape.medicinereminder.wear-pngs-0 D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\build\generated\res\pngs\release
+com.wwwescape.medicinereminder.wear-resValues-1 D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\build\generated\res\resValues\release
+com.wwwescape.medicinereminder.wear-updated_navigation_xml-2 D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\build\generated\updated_navigation_xml\release
+com.wwwescape.medicinereminder.wear-packageReleaseResources-3 D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.wwwescape.medicinereminder.wear-packageReleaseResources-4 D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.wwwescape.medicinereminder.wear-merged-not-compiled-resources-5 D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\build\intermediates\merged-not-compiled-resources\release
+com.wwwescape.medicinereminder.wear-release-6 D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\build\intermediates\merged_res\release\mergeReleaseResources
+com.wwwescape.medicinereminder.wear-main-7 D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\res
+com.wwwescape.medicinereminder.wear-release-8 D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\release\res
+gradleHome-0 D:\Gradle

@@ -1,0 +1,237 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wwwescape.medicinereminder"
+4    android:versionCode="100001"
+5    android:versionName="0.0.1" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="30"
+8-->INJECTED
+9        android:targetSdkVersion="36" />
+9-->INJECTED
+10
+11    <!-- The ringing reminder, mirrored from the phone. -->
+12    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+12-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:6:5-77
+12-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:6:22-74
+13    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+13-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:7:5-81
+13-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:8:5-66
+14-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:8:22-63
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:9:5-68
+15-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:9:22-65
+16
+17    <uses-feature android:name="android.hardware.type.watch" />
+17-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:11:5-64
+17-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:11:19-61
+18
+19    <permission
+19-->[androidx.core:core:1.16.0] D:\Gradle\caches\9.4.1\transforms\37345b0f2da1b12daabd82fb40dbd521\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+20        android:name="com.wwwescape.medicinereminder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+20-->[androidx.core:core:1.16.0] D:\Gradle\caches\9.4.1\transforms\37345b0f2da1b12daabd82fb40dbd521\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+21        android:protectionLevel="signature" />
+21-->[androidx.core:core:1.16.0] D:\Gradle\caches\9.4.1\transforms\37345b0f2da1b12daabd82fb40dbd521\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+22
+23    <uses-permission android:name="com.wwwescape.medicinereminder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+23-->[androidx.core:core:1.16.0] D:\Gradle\caches\9.4.1\transforms\37345b0f2da1b12daabd82fb40dbd521\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+23-->[androidx.core:core:1.16.0] D:\Gradle\caches\9.4.1\transforms\37345b0f2da1b12daabd82fb40dbd521\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+24
+25    <application
+25-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:13:5-59:19
+26        android:allowBackup="false"
+26-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:14:9-36
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.16.0] D:\Gradle\caches\9.4.1\transforms\37345b0f2da1b12daabd82fb40dbd521\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+28        android:extractNativeLibs="false"
+28-->INJECTED
+29        android:icon="@mipmap/ic_launcher"
+29-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:15:9-43
+30        android:label="@string/app_name"
+30-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:16:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:17:9-54
+32        android:supportsRtl="true"
+32-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:18:9-35
+33        android:theme="@android:style/Theme.DeviceDefault" >
+33-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:19:9-59
+34
+35        <!-- A companion: reminders come from the phone app, so it needs a paired phone. -->
+36        <meta-data
+36-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:22:9-24:37
+37            android:name="com.google.android.wearable.standalone"
+37-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:23:13-66
+38            android:value="false" />
+38-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:24:13-34
+39
+40        <activity
+40-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:26:9-34:20
+41            android:name="com.wwwescape.medicinereminder.wear.MainActivity"
+41-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:27:13-41
+42            android:exported="true"
+42-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:28:13-36
+43            android:taskAffinity="" >
+43-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:29:13-36
+44            <intent-filter>
+44-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:30:13-33:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:31:17-69
+45-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:31:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:32:17-77
+47-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:32:27-74
+48            </intent-filter>
+49        </activity>
+50
+51        <!--
+52             Kept alive (no noHistory) so pressing the watch's button doesn't silence a dose
+53             that's still due; it closes once answered here or on the phone.
+54        -->
+55        <activity
+55-->INJECTED
+56            android:name="com.wwwescape.medicinereminder.wear.ReminderActivity"
+56-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:39:13-45
+57            android:excludeFromRecents="true"
+57-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:40:13-46
+58            android:exported="false"
+58-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:41:13-37
+59            android:launchMode="singleTask"
+59-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:42:13-44
+60            android:showWhenLocked="true"
+60-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:43:13-42
+61            android:taskAffinity="com.wwwescape.medicinereminder.reminder"
+61-->INJECTED
+62            android:turnScreenOn="true" />
+62-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:45:13-40
+63
+64        <service
+64-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:48:9-58:19
+65            android:name="com.wwwescape.medicinereminder.wear.WatchListenerService"
+65-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:49:13-49
+66            android:exported="true" >
+66-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:50:13-36
+67            <intent-filter>
+67-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:51:13-57:29
+68                <action android:name="com.google.android.gms.wearable.MESSAGE_RECEIVED" />
+68-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:52:17-91
+68-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:52:25-88
+69
+70                <data
+70-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:53:17-56:45
+71                    android:host="*"
+71-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:54:21-37
+72                    android:pathPrefix="/reminder"
+72-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:55:21-51
+73                    android:scheme="wear" />
+73-->D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:56:21-42
+74            </intent-filter>
+75        </service>
+76
+77        <uses-library
+77-->[androidx.wear.compose:compose-foundation:1.5.0] D:\Gradle\caches\9.4.1\transforms\cf4ef28d395f3b817b5e360cdad518bf\transformed\compose-foundation-1.5.0\AndroidManifest.xml:23:9-25:40
+78            android:name="wear-sdk"
+78-->[androidx.wear.compose:compose-foundation:1.5.0] D:\Gradle\caches\9.4.1\transforms\cf4ef28d395f3b817b5e360cdad518bf\transformed\compose-foundation-1.5.0\AndroidManifest.xml:24:13-36
+79            android:required="false" />
+79-->[androidx.wear.compose:compose-foundation:1.5.0] D:\Gradle\caches\9.4.1\transforms\cf4ef28d395f3b817b5e360cdad518bf\transformed\compose-foundation-1.5.0\AndroidManifest.xml:25:13-37
+80
+81        <activity
+81-->[com.google.android.gms:play-services-base:18.5.0] D:\Gradle\caches\9.4.1\transforms\d670d1a7b82097a1d2a8bbc07ba1a744\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+82            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+82-->[com.google.android.gms:play-services-base:18.5.0] D:\Gradle\caches\9.4.1\transforms\d670d1a7b82097a1d2a8bbc07ba1a744\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+83            android:exported="false"
+83-->[com.google.android.gms:play-services-base:18.5.0] D:\Gradle\caches\9.4.1\transforms\d670d1a7b82097a1d2a8bbc07ba1a744\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+84            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+84-->[com.google.android.gms:play-services-base:18.5.0] D:\Gradle\caches\9.4.1\transforms\d670d1a7b82097a1d2a8bbc07ba1a744\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+85
+86        <provider
+86-->[androidx.emoji2:emoji2:1.4.0] D:\Gradle\caches\9.4.1\transforms\2e5e07dcab3ca9a15a6d48cc84c958f9\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+87            android:name="androidx.startup.InitializationProvider"
+87-->[androidx.emoji2:emoji2:1.4.0] D:\Gradle\caches\9.4.1\transforms\2e5e07dcab3ca9a15a6d48cc84c958f9\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+88            android:authorities="com.wwwescape.medicinereminder.androidx-startup"
+88-->[androidx.emoji2:emoji2:1.4.0] D:\Gradle\caches\9.4.1\transforms\2e5e07dcab3ca9a15a6d48cc84c958f9\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+89            android:exported="false" >
+89-->[androidx.emoji2:emoji2:1.4.0] D:\Gradle\caches\9.4.1\transforms\2e5e07dcab3ca9a15a6d48cc84c958f9\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+90            <meta-data
+90-->[androidx.emoji2:emoji2:1.4.0] D:\Gradle\caches\9.4.1\transforms\2e5e07dcab3ca9a15a6d48cc84c958f9\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+91                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+91-->[androidx.emoji2:emoji2:1.4.0] D:\Gradle\caches\9.4.1\transforms\2e5e07dcab3ca9a15a6d48cc84c958f9\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+92                android:value="androidx.startup" />
+92-->[androidx.emoji2:emoji2:1.4.0] D:\Gradle\caches\9.4.1\transforms\2e5e07dcab3ca9a15a6d48cc84c958f9\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+93            <meta-data
+93-->[androidx.lifecycle:lifecycle-process:2.9.4] D:\Gradle\caches\9.4.1\transforms\3648e7f8f4d39ef2e9542ab2c4db1953\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:29:13-31:52
+94                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+94-->[androidx.lifecycle:lifecycle-process:2.9.4] D:\Gradle\caches\9.4.1\transforms\3648e7f8f4d39ef2e9542ab2c4db1953\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:30:17-78
+95                android:value="androidx.startup" />
+95-->[androidx.lifecycle:lifecycle-process:2.9.4] D:\Gradle\caches\9.4.1\transforms\3648e7f8f4d39ef2e9542ab2c4db1953\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:31:17-49
+96            <meta-data
+96-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+97                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+97-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+98                android:value="androidx.startup" />
+98-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+99        </provider>
+100
+101        <uses-library
+101-->[androidx.window:window:1.5.0] D:\Gradle\caches\9.4.1\transforms\753bfa4fc927060cbd987b60275f3122\transformed\window-1.5.0\AndroidManifest.xml:23:9-25:40
+102            android:name="androidx.window.extensions"
+102-->[androidx.window:window:1.5.0] D:\Gradle\caches\9.4.1\transforms\753bfa4fc927060cbd987b60275f3122\transformed\window-1.5.0\AndroidManifest.xml:24:13-54
+103            android:required="false" />
+103-->[androidx.window:window:1.5.0] D:\Gradle\caches\9.4.1\transforms\753bfa4fc927060cbd987b60275f3122\transformed\window-1.5.0\AndroidManifest.xml:25:13-37
+104        <uses-library
+104-->[androidx.window:window:1.5.0] D:\Gradle\caches\9.4.1\transforms\753bfa4fc927060cbd987b60275f3122\transformed\window-1.5.0\AndroidManifest.xml:26:9-28:40
+105            android:name="androidx.window.sidecar"
+105-->[androidx.window:window:1.5.0] D:\Gradle\caches\9.4.1\transforms\753bfa4fc927060cbd987b60275f3122\transformed\window-1.5.0\AndroidManifest.xml:27:13-51
+106            android:required="false" />
+106-->[androidx.window:window:1.5.0] D:\Gradle\caches\9.4.1\transforms\753bfa4fc927060cbd987b60275f3122\transformed\window-1.5.0\AndroidManifest.xml:28:13-37
+107
+108        <meta-data
+108-->[com.google.android.gms:play-services-basement:18.9.0] D:\Gradle\caches\9.4.1\transforms\c873e96503d3b3e00f5e192783e3158d\transformed\play-services-basement-18.9.0\AndroidManifest.xml:21:9-23:69
+109            android:name="com.google.android.gms.version"
+109-->[com.google.android.gms:play-services-basement:18.9.0] D:\Gradle\caches\9.4.1\transforms\c873e96503d3b3e00f5e192783e3158d\transformed\play-services-basement-18.9.0\AndroidManifest.xml:22:13-58
+110            android:value="@integer/google_play_services_version" />
+110-->[com.google.android.gms:play-services-basement:18.9.0] D:\Gradle\caches\9.4.1\transforms\c873e96503d3b3e00f5e192783e3158d\transformed\play-services-basement-18.9.0\AndroidManifest.xml:23:13-66
+111
+112        <receiver
+112-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+113            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+113-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+114            android:directBootAware="false"
+114-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+115            android:enabled="true"
+115-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+116            android:exported="true"
+116-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+117            android:permission="android.permission.DUMP" >
+117-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+118            <intent-filter>
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+119                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+119-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+119-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+120            </intent-filter>
+121            <intent-filter>
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+122                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+122-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+122-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+123            </intent-filter>
+124            <intent-filter>
+124-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+125                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+125-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+125-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+126            </intent-filter>
+127            <intent-filter>
+127-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+128                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+128-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+128-->[androidx.profileinstaller:profileinstaller:1.4.0] D:\Gradle\caches\9.4.1\transforms\f43b14cad837c7b3e430a204ed90e09a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+129            </intent-filter>
+130        </receiver>
+131    </application>
+132
+133</manifest>

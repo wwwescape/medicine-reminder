@@ -1,0 +1,53 @@
+D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\build.gradle.kts:24: Warning: A newer version of compileSdk than 36 is available: 37 [GradleDependency]
+    compileSdk = 36
+    ~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "GradleDependency":
+   This detector looks for usages of libraries where the version you are using
+   is not the current stable release. Using older versions is fine, and there
+   are cases where you deliberately want to stick with an older version.
+   However, you may simply not be aware that a more recent version is
+   available, and that is what this lint check helps find.
+
+D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\AndroidManifest.xml:14: Warning: The attribute android:allowBackup is deprecated from Android 12 and higher and may be removed in future versions. Consider adding the attribute android:dataExtractionRules specifying an @xml resource which configures cloud backups and device transfers on Android 12 and higher. [DataExtractionRules]
+        android:allowBackup="false"
+                             ~~~~~
+
+   Explanation for issues of type "DataExtractionRules":
+   Before Android 12, the attributes android:allowBackup and
+   android:fullBackupContent were used to configure all forms of backup,
+   including cloud backups, device-to-device transfers and adb backup.
+
+   In Android 12 and higher, these attributes have been deprecated and will
+   only apply to cloud backups. You should instead use the attribute
+   android:dataExtractionRules, specifying an @xml resource that configures
+   which files to back up, for cloud backups and for device-to-device
+   transfers, separately. If your minSdkVersion supports older versions,
+   you'll still want to specify an android:fullBackupContent resource if the
+   default behavior is not right for your app.
+
+   https://developer.android.com/about/versions/12/backup-restore#xml-changes
+   https://goo.gle/DataExtractionRules
+
+D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\res\mipmap-anydpi-v26: Warning: This folder configuration (v26) is unnecessary; minSdkVersion is 30. Merge all the resources in this folder into mipmap-anydpi. [ObsoleteSdkInt]
+
+   Explanation for issues of type "ObsoleteSdkInt":
+   This check flags version checks that are not necessary, because the
+   minSdkVersion (or surrounding known API level) is already at least as high
+   as the version checked for.
+
+   Similarly, it also looks for resources in -vNN folders, such as values-v14
+   where the version qualifier is less than or equal to the minSdkVersion,
+   where the contents should be merged into the best folder.
+
+D:\Dev\GitHub\wwwescape\Medicine Reminder\wear\src\main\java\com\wwwescape\medicinereminder\wear\ReminderActivity.kt:116: Warning: Avoid using FLAG_ACTIVITY_NEW_TASK and FLAG_ACTIVITY_CLEAR_TOP [WearRecents]
+                .addFlags(Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_SINGLE_TOP or Intent.FLAG_ACTIVITY_NO_USER_ACTION)
+                                 ~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "WearRecents":
+   In recents, correctly represent your app's activities, consistent with
+   device implementation.
+
+   https://developer.android.com/training/wearables/apps/launcher
+
+0 errors, 4 warnings

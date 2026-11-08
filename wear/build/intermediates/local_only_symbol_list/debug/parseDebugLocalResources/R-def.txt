@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+array android_wear_capabilities
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_launcher_monochrome
+drawable ic_stat_prescriptions
+mipmap ic_launcher
+mipmap ic_launcher_round
+plurals notification_title_many
+raw keep
+string action_allow
+string action_close
+string action_skip
+string action_snooze
+string action_take
+string action_take_all
+string app_name
+string notification_channel_reminders
+string notification_channel_reminders_description
+string notification_title_one
+string status_allow_full_screen
+string status_allow_notifications
+string status_phone_hint
+string status_ready
+string test_label

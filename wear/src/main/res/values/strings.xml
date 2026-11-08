@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medicine Reminder</string>
+    <string name="notification_channel_reminders">Dose reminders</string>
+    <string name="notification_channel_reminders_description">Rings on the watch when a dose is due on your phone</string>
+    <string name="notification_title_one">Time for %1$s</string>
+    <plurals name="notification_title_many">
+        <item quantity="one">Time for %1$d medicine</item>
+        <item quantity="other">Time for %1$d medicines</item>
+    </plurals>
+    <string name="action_take">Take</string>
+    <string name="action_take_all">Take all</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_snooze">Snooze</string>
+    <string name="action_close">Close</string>
+    <string name="test_label">Test reminder</string>
+    <string name="status_ready">Dose reminders from your phone ring here too.</string>
+    <string name="status_allow_notifications">Allow notifications so reminders can ring on this watch.</string>
+    <string name="status_allow_full_screen">Allow full-screen reminders so they open over the watch face.</string>
+    <string name="action_allow">Allow</string>
+    <string name="status_phone_hint">Add medicines in the phone app. Test a reminder there from Settings.</string>
+</resources>

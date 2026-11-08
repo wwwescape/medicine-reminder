@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Files in app storage that other apps may be handed, one at a time, for a single task. -->
+<paths>
+    <files-path name="prescriptions" path="prescriptions/" />
+    <!-- Medicine photos: written by the camera app, and opened in a viewer. -->
+    <files-path name="photos" path="photos/" />
+    <!-- The document registry: opened in a viewer, or shared, such as with an optician. -->
+    <files-path name="documents" path="documents/" />
+</paths>

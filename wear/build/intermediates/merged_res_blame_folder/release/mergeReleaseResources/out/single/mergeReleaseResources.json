@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-release-5:\\drawable_ic_launcher_monochrome.xml.flat",
+        "source": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-main-6:\\drawable\\ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-release-5:\\raw_shake_meds.mp3.flat",
+        "source": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-main-6:\\raw\\shake_meds.mp3"
+    },
+    {
+        "merged": "com.wwwescape.medicinereminder.wear-release-5:/raw_keep.xml.flat",
+        "source": "com.wwwescape.medicinereminder.wear-main-6:/raw/keep.xml"
+    },
+    {
+        "merged": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-release-5:\\raw_keep.xml.flat",
+        "source": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-main-6:\\raw\\keep.xml"
+    },
+    {
+        "merged": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-release-5:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-release-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-release-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-release-5:\\drawable_ic_stat_prescriptions.xml.flat",
+        "source": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-main-6:\\drawable\\ic_stat_prescriptions.xml"
+    },
+    {
+        "merged": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-release-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Gradle\\daemon\\9.4.1\\com.wwwescape.medicinereminder.wear-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

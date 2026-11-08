@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.2.1" type="partial_results">
+    <map id="NotificationPermission">
+        <entry
+            name="source"
+            boolean="true"/>
+    </map>
+    <map id="UnsafeImplicitIntentLaunch">
+            <map id="actionsSent">
+                    <map id="android.settings.MANAGE_APP_USE_FULL_SCREEN_INTENT (used to start an activity)">
+                        <location id="0"
+                            file="${:wear*debug*MAIN*sourceProvider*0*javaDir*0}/com/wwwescape/medicinereminder/wear/MainActivity.kt"
+                            line="99"
+                            column="45"
+                            startOffset="4707"
+                            endLine="99"
+                            endColumn="144"
+                            endOffset="4806"/>
+                    </map>
+            </map>
+    </map>
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.wwwescape.medicinereminder.wear.MainActivity"
+                    boolean="true"/>
+                <entry
+                    name="com.wwwescape.medicinereminder.wear.WatchListenerService"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="array[android_wear_capabilities(U)],drawable[ic_launcher_background(U),ic_launcher_foreground(U),ic_launcher_monochrome(U),ic_stat_prescriptions(U)],mipmap[ic_launcher(U),ic_launcher_round(U)],plurals[notification_title_many(U)],raw[keep(U)],string[app_name(U),notification_channel_reminders(U),notification_channel_reminders_description(U),notification_title_one(U),action_take(U),action_take_all(U),action_skip(U),action_snooze(U),action_close(U),test_label(U),status_ready(U),status_allow_notifications(U),status_allow_full_screen(U),action_allow(U),status_phone_hint(U)];5^1^2^3,6^1^2^3,8^0;@array/android_wear_capabilities;;"/>
+    </map>
+
+</incidents>
