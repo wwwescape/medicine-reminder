@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.2.1" type="incidents">
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of `compileSdk` than 36 is available: 37">
+        <fix-replace
+            description="Set compileSdk to 37"
+            oldString="36"
+            replacement="37"
+            priority="0"/>
+        <location
+            file="${:wear*projectDir}/build.gradle.kts"
+            line="24"
+            column="5"
+            startOffset="836"
+            endLine="24"
+            endColumn="20"
+            endOffset="851"/>
+    </incident>
+
+    <incident
+        id="ObsoleteSdkInt"
+        severity="warning"
+        message="This folder configuration (`v26`) is unnecessary; `minSdkVersion` is 30. Merge all the resources in this folder into `mipmap-anydpi`.">
+        <fix-data file="${:wear*debug*MAIN*sourceProvider*0*resDir*0}/mipmap-anydpi-v26" folderName="mipmap-anydpi" requiresApi="30"/>
+        <location
+            file="${:wear*debug*MAIN*sourceProvider*0*resDir*0}/mipmap-anydpi-v26"/>
+    </incident>
+
+    <incident
+        id="WearRecents"
+        severity="warning"
+        message="Avoid using `FLAG_ACTIVITY_NEW_TASK` and `FLAG_ACTIVITY_CLEAR_TOP`">
+        <location
+            file="${:wear*debug*MAIN*sourceProvider*0*javaDir*0}/com/wwwescape/medicinereminder/wear/ReminderActivity.kt"
+            line="116"
+            column="34"
+            startOffset="4119"
+            endLine="116"
+            endColumn="56"
+            endOffset="4141"/>
+    </incident>
+
+</incidents>

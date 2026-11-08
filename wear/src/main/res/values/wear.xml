@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- How the phone app finds this watch app (WearProtocol.CAPABILITY). Kept through resource
+         shrinking by res/raw/keep.xml. -->
+    <string-array name="android_wear_capabilities" translatable="false">
+        <item>medicine_reminder_watch</item>
+    </string-array>
+</resources>

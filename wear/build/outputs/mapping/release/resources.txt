@@ -1,0 +1,2607 @@
+Marking drawable:ic_launcher_foreground:2131034182 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:tab:2131492924 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:switch_role:2131492923 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:androidx_compose_ui_view_composition_context:2131099693 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:action_close:2131492865 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:action_snooze:2131492867 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:action_skip:2131492866 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:notification_channel_reminders:2131492908 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:notification_channel_reminders_description:2131492909 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:notification_title_one:2131492910 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking plurals:notification_title_many:2131361792 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking drawable:ic_stat_prescriptions:2131034184 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:view_tree_lifecycle_owner:2131099773 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:view_tree_view_model_store_owner:2131099776 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:view_tree_saved_state_registry_owner:2131099775 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:inspection_slot_table_set:2131099719 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:compose_view_saveable_id_tag:2131099702 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:hide_in_inspector_tag:2131099714 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:auto_clear_focus_behavior_tag:2131099697 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_unknown_issue:2131492891 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:view_tree_on_back_pressed_dispatcher_owner:2131099774 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:report_drawn:2131099736 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking attr:alpha:2130837506 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking attr:lStar:2130837536 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:action_allow:2131492864 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:status_phone_hint:2131492921 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:status_ready:2131492922 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:status_allow_full_screen:2131492918 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:status_allow_notifications:2131492919 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:app_name:2131492873 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:is_pooling_container_tag:2131099720 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:androidx_startup:2131492872 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:action_take_all:2131492869 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:action_take:2131492868 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:tag_accessibility_actions:2131099744 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_action_clickable_span:2131099648 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:tag_accessibility_clickable_spans:2131099745 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:compose_prefetch_scheduler:2131099701 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_0:2131099649 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_1:2131099650 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_2:2131099661 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_3:2131099672 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_4:2131099675 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_5:2131099676 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_6:2131099677 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_7:2131099678 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_8:2131099679 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_9:2131099680 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_10:2131099651 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_11:2131099652 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_12:2131099653 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_13:2131099654 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_14:2131099655 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_15:2131099656 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_16:2131099657 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_17:2131099658 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_18:2131099659 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_19:2131099660 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_20:2131099662 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_21:2131099663 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_22:2131099664 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_23:2131099665 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_24:2131099666 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_25:2131099667 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_26:2131099668 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_27:2131099669 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_28:2131099670 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_29:2131099671 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_30:2131099673 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_custom_action_31:2131099674 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_enable_button:2131492883 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_update_button:2131492893 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_install_button:2131492886 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_notification_ticker:2131492890 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_open_on_phone:2131492898 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_notification_channel_name:2131492889 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:test_label:2131492926 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:tag_compat_insets_dispatch:2131099748 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:tag_window_insets_animation_callback:2131099758 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:pooling_container_listener_holder_tag:2131099735 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:androidx_compose_ui_view_compose_view_context:2131099692 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:indeterminate:2131492905 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:state_off:2131492916 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:state_on:2131492917 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:selected:2131492913 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:not_selected:2131492907 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:template_percent:2131492925 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:in_progress:2131492904 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:state_empty:2131492915 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:wrapped_composition_tag:2131099778 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_updating_text:2131492896 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_unsupported_text:2131492892 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_enable_text:2131492884 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_wear_update_text:2131492897 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_update_text:2131492894 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_install_text:2131492887 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_enable_title:2131492885 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_update_title:2131492895 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking string:common_google_play_services_install_title:2131492888 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:view_tree_disjoint_parent:2131099772 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking drawable:common_full_open_on_phone:2131034154 reachable: referenced from in_memory_r8_base_classes0.dex
+android.content.res.Resources#getIdentifier present: true
+Web content present: false
+Referenced Strings:
+_state$volatile
+IsTraversalGroup
+BodyExtraSmall
+androidx.activity.result.contract.ext...
+​
+String
+androidx.compose.ui.layout.WindowInse...
+resolution
+actionIntent
+java.lang.Integer
+wear_fast_pair_get_account_keys
+wear_get_related_configs
+android.widget.ViewGroup
+Compose:sideeffects
+com.google.app.id
+WordBreak.Unspecified
+TAKEN
+SERVICE_DISABLED
+onDataChanged
+VerbatimTts
+AndroidOwner:onTouch
+androidx.activity.result.contract.act...
+Rgb565
+Compose:abandons
+outerLayoutInfo
+java.lang.CharSequence
+STOP
+givenName
+Function1
+DUPLICATE_LISTENER
+Function0
+CONNECTION_SUSPENDED_DURING_CALL
+Function3
+Function2
+EmojiSupportMatch.All
+Function5
+Function4
+version
+SetSelection
+Function7
+SHOW_TRANSLATED
+Function6
+textSelectionRange
+API_INSTALL_REQUIRED
+ACTION_PRESS_AND_HOLD
+kotlin.jvm.functions.
+kotlinx.coroutines.DefaultExecutor
+FocusOwnerImpl:dispatchKeyEvent
+kotlinx.coroutines.scheduler.default....
+dose_reminders_buzz
+placeable
+Xor
+Strategy.HighQuality
+VerticalScrollAxisRange
+role
+S_RESUMING_BY_RCV
+SurfaceContainerHigh
+displayName
+emoji2.text.DefaultEmojiConfig
+androidx.compose.foundation.lazy.layo...
+H
+DAYS
+Wearable.API
+FEATURE_DISABLED
+wear_platform_mr_number
+Tonal
+InitialPending
+TertiaryDim
+LookaheadPlacement
+SignInClientImpl
+LayingOut
+fillColor
+result
+Function9
+Function8
+com.google.common.base.Strings
+ContentOrLtr
+NumberPassword
+LocalInputManager
+AccountAccessor
+androidx.view.accessibility.Accessibi...
+kotlin.jvm.internal.LongCompanionObject
+EXTRA_BENCHMARK_OPERATION
+EmojiCompat.EmojiCompatInitializer.run
+wear_wifi_immediate_connect
+_
+a
+completedExpandBuffersAndPauseFlag$vo...
+Center
+b
+SUCCESS
+ACTION_CLEAR_ACCESSIBILITY_FOCUS
+Infinity
+d
+Compose:unobserve
+e
+ColorDodge
+RESULT_PARSE_EXCEPTION
+f
+wear_set_cloud_sync_setting_by_node
+AndroidOwner:androidViewMeasure
+Hyphens.None
+Compose:recompose
+RESUMING_BY_EB
+kotlin.String
+FillableData
+OnClick
+n
+DRIVE_EXTERNAL_STORAGE_REQUIRED
+r
+androidx.lifecycle.BundlableSavedStat...
+java.lang.Module
+SUSPEND
+DEVELOPER_ERROR
+package:
+x
+ProgressBarRangeInfo
+Initial
+Startup
+clientMethodKey
+wear_flush_batched_data
+instructions
+Comparable
+Email
+Start
+androidx.profileinstaller.action.SKIP...
+actualStyle
+Miter
+Gpu
+startColor
+emailAddress
+addSuppressed
+Placement
+CSLCompat
+Checkbox
+ACTION_SET_PROGRESS
+Multiply
+RESULT_OK
+ACTION_SCROLL_FORWARD
+SIGN_IN_REQUIRED
+compose:lazy:prefetch:compose
+Short
+_resumed$volatile
+add
+addressCountry
+kotlin.jvm.internal.BooleanCompanionO...
+trimPathEnd
+SIGN_IN_FAILED
+com.google.android.gms.wearable.inter...
+com.google.android.gms.signin.interna...
+RadioButton
+IsSensitiveData
+Rgb
+GoogleApiActivity
+RECONNECTION_TIMED_OUT_DURING_UPDATE
+SaveableStateRegistry:
+phoneCountryCode
+End
+error_code
+stateDescription
+pendingIntent
+compose:lazy:prefetch:update_nested_p...
+strokeWidth
+com.google.android.gms.dynamic.IObjec...
+androidx.view.accessibility.Accessibi...
+textSubstitution
+_invoked$volatile
+ACTION_CLEAR_FOCUS
+COMPLETING_WAITING_CHILDREN
+RESULT_BASELINE_PROFILE_NOT_FOUND
+Em
+ACTION_SCROLL_BACKWARD
+onDataItemChanged
+RESULT_DELETE_SKIP_FILE_SUCCESS
+WordBreak.Phrase
+SDK_INT
+WordBreak.None
+NumeralSmall
+com.google.android.gms.common.interna...
+androidx.compose.foundation.text.inli...
+provider
+TextAnnotatedStringNode:measure
+strokeLineCap
+NaN
+kotlinx.coroutines.main.delay
+FontProvider.getFontFamilyResult
+ACTION_SCROLL_UP
+BITMAP_MASKABLE
+Down
+DisplaySmall
+$$compose
+SHOW_ORIGINAL
+checkForSemanticsChanges
+kotlin.collections.List
+androidx.view.accessibility.Accessibi...
+UserInput
+label
+WearableListenerService
+message
+ACTION_DRAG_DROP
+compose:lazy:prefetch:execute:item
+Mouse
+Offset.Unspecified
+Measuring
+SurfaceContainerLow
+Previous
+FontProvider.getProvider
+START
+PageDown
+com.google.android.gms.wearable.BIND_...
+creditCardExpirationDay
+tail$volatile
+ACTION_ARGUMENT_SET_TEXT_CHARSEQUENCE
+username
+Enum
+java.lang.Float
+Dispatchers.IO
+centerY
+OutlineVariant
+RESTRICTED_PROFILE
+centerX
+UNDEFINED
+Go
+isShowingTextSubstitution
+OnBackground
+ACTION_CONTEXT_CLICK
+InactivePendingWork
+SharingStarted.Eagerly
+BodySmall
+androidx.profileinstaller.action.SAVE...
+LookaheadLayingOut
+com.google.android.gms.wearable.inter...
+android.os.Build$VERSION
+dexopt/baseline.prof
+com.google.android.gms.wearable.inter...
+LocalGraphicsContext
+SERVICE_MISSING
+kotlinx.coroutines.internal.StackTrac...
+AndroidOwner:draw
+kotlin.Double.Companion
+createSegment
+write
+_isCompleted$volatile
+StateDescription
+grantedScopes
+toggleableState
+LinkTestMarker
+shape
+EmojiSupportMatch.Default
+GoogleSignatureVerifier
+TextSubstitution
+byte
+kotlin.jvm.functions.Function3
+kotlin.jvm.functions.Function4
+runningWorkers$volatile
+kotlin.jvm.functions.Function1
+WearableLS
+androidx.compose.ui.input.pointer.Poi...
+kotlin.jvm.functions.Function2
+Square
+kotlin.jvm.functions.Function0
+defaultGoogleSignInAccount
+Modulate
+kotlin.jvm.functions.Function9
+kotlin.jvm.functions.Function7
+kotlin.jvm.functions.Function8
+creditCardNumber
+kotlin.jvm.functions.Function5
+kotlin.jvm.functions.Function6
+RESULT_NOT_WRITABLE
+.dp
+WIFI_CREDENTIAL_SYNC_NO_CREDENTIAL_FE...
+.xml
+Strictness.Loose
+RESULT_INSTALL_SKIP_FILE_SUCCESS
+compose:lazy:prefetch:execute:urgent
+birthDateYear
+ACTION_SCROLL_IN_DIRECTION
+LabelSmall
+GoogleApiAvailability
+SurfaceContainer
+URI
+maxTextLength
+valueVector
+LocalViewConfiguration
+VIEW_DISAPPEAR
+ACTION_PAGE_UP
+androidx.view.accessibility.Accessibi...
+Strategy.Simple
+.em
+kotlin.Long
+LocalProvidableLocaleList
+androidx.view.accessibility.Accessibi...
+Style
+Completing
+java.lang.String
+addressRegion
+Width
+ALIGN_LEFT
+Focused
+DataBuffer
+head$volatile
+INPUT_CLOSED
+CLOSE_REASON_DISCONNECTED
+android.settings.APPLICATION_DETAILS_...
+HorizontalScrollAxisRange
+Text
+Outline
+Unspecified
+Lab
+Default
+AndroidEdgeEffectOverscrollEffect
+invisible_actions
+LookaheadMeasuring
+scheduleFrameEndCallback
+Compose:insertMovableContent
+OUTPUT_CLOSED
+Xyz
+android.intent.action.TIME_TICK
+DESTROYED
+OnPositionedDispatch
+androidx.core.app.extra.COMPAT_TEMPLATE
+Lighten
+All
+New
+ATOMIC
+kotlin.collections.Collection
+_decision$volatile
+Carousel
+paneTitle
+android.intent.action.TIME_SET
+Scrolling
+com.google.android.wearable.app.cn
+MaxTextLength
+receivers$volatile
+workerCtl$volatile
+scaleX
+scaleY
+PrimaryDim
+android.widget.CheckBox
+com.google.android.gms.signin.interna...
+translateY
+translateX
+Hyphens.Auto
+android.view.accessibility.extra.DATA...
+wearable_services
+OnSecondaryContainer
+Plus
+API_DISABLED_FOR_CONNECTION
+0.0..0.0
+read
+void
+Tertiary
+inputText
+MetadataValueReader
+LocalAutofillTree
+com.google.android.gms.chimera
+android.car.EXTENSIONS
+java.util.List
+compose:lazy:prefetch:nested
+lastScheduledTask$volatile
+cn.google
+StructuralEqualityPolicy
+scrollAxisRange
+com.google.android.gms.wearable.DATA_...
+kotlin.Int
+_id
+filterType
+kotlin.Throwable
+RequestFocus
+_handled$volatile
+Horizontal
+handleLifecycleEvent
+COMPLETING_ALREADY
+Indeterminate
+slot
+NO_VALUE
+sendAccessibilitySemanticsStructureCh...
+Any
+java.lang.Iterable
+InMeasureBlock
+Companion
+kotlinx.coroutines.DefaultExecutor.ke...
+kotlin.Annotation
+com.google.android.gms.signin.interna...
+SkipSubtreeAndContinueTraversal
+DEAD_CLIENT
+Phone
+TitleSmall
+Modifier
+Invalid
+androidx.activity.result.contract.ext...
+Strictness.None
+Collapse
+High
+No
+BITMAP
+/reminder/dismiss
+Keyboard
+API_NOT_CONNECTED
+CompositionErrorContext
+Lsq2
+getContentCaptureSessionCompat
+RECONNECTION_TIMED_OUT
+Array
+android.settings.MANAGE_APP_USE_FULL_...
+_size$volatile
+gcore_
+kotlin.Float.Companion
+UNKNOWN
+DstOut
+com.google.android.gms.wearable.MESSA...
+Main
+On
+LineHeightStyle.Alignment.Proportional
+common_google_play_services_sign_in_f...
+_isCompleting$volatile
+accessibility
+Bradford
+endColor
+_prev$volatile
+com.google.android.gms.common.interna...
+layoutResult
+STOP_AND_RESET_REPLAY_CACHE
+AccessibilityNodeInfo.roleDescription
+getLocalSavedStateRegistryOwner
+Recomposing
+android.widget.HorizontalScrollView
+impl
+TypefaceCompatApi29Impl
+emojiCompat
+GoogleApiHandler
+password
+centerColor
+NO_CLOSE_CAUSE
+kotlinx.coroutines.scheduler.keep.ali...
+DisplayMedium
+ERROR
+SERVICE_UPDATING
+androidx.compose.ui.platform.AndroidC...
+pending_intent
+creditCardExpirationMonth
+ACTION_SCROLL_DOWN
+TextDecoration.
+WearableClient
+OnSurfaceVariant
+expirationTime
+remoteInputs
+verticalScrollAxisRange
+targetVector
+wear_consent
+_closeCause$volatile
+_COROUTINE.
+REMOVE_FROZEN
+onEntityUpdate
+HH:mm
+doses
+kotlin.Short.Companion
+com.google.android.gms.wearable.CHANN...
+CollectionInfo
+dataItemFilters
+kotlinx.coroutines.semaphore.segmentSize
+androidx.savedstate.Restarter
+android.view.accessibility.extra.DATA...
+Rtl
+GetTextLayoutResult
+android.hardware.type.automotive
+DROP_SHADER_CACHE
+serviceMissingResolutionIntentKey
+ToggleableState
+kotlin.collections.ListIterator
+ComposeInternal
+waterfall
+liveRegion
+ClientTelemetry.API
+ServiceBindIntentUtils
+DstIn
+ACTION_SELECT
+OnPrimaryContainer
+receive
+getParent
+viewportWidth
+gradient
+Normal
+androidx.lifecycle.ViewModelProvider....
+streetAddress
+kotlin.Char
+quit
+is_fully_rolled_out
+ACTION_ARGUMENT_EXTEND_SELECTION_BOOLEAN
+PaneTitle
+Sp
+SrcOver
+java.util.ListIterator
+/reminder/show
+SUCCESS_CACHE
+android.view.accessibility.extra.EXTR...
+DefaultDispatcher
+kotlin.Double
+GoogleCertificates
+Compose:Composer.dispose
+onGetService
+wear_notify_channel_flushed
+java.lang.Short
+OnTertiary
+Search
+android.widget.Button
+Oklab
+androidx.view.accessibility.Accessibi...
+Disabled
+com.google.android.gms.version
+DEFERRED
+testTag
+Eraser
+unreachable
+creditCardSecurityCode
+DIAGNOSTIC_PROFILE_IS_COMPRESSED
+phoneNumber
+AccessibilityDelegate
+Medium
+name
+Enter
+Long
+Up
+SERVICE_VERSION_UPDATE_REQUIRED
+INTERRUPTED_RCV
+getDescriptor
+CLIENT_TELEMETRY
+Iterable
+string
+font_variation_settings
+Yes
+kotlin.coroutines.jvm.internal.BaseCo...
+kotlin.Function3
+common_google_play_services_network_e...
+java.lang.module.ModuleDescriptor
+reduce_motion
+kotlin.Function4
+common_google_play_services_invalid_a...
+kotlin.Function1
+kotlin.Function2
+EmojiSupportMatch.None
+TextSelectionRange
+tint
+kotlin.Function0
+SrcIn
+Justify
+Stylus
+LineThrough
+SEALED
+CREATED
+kotlin.Function9
+ContentOrRtl
+NO_OWNER
+kotlin.Function7
+kotlin.Function8
+androidx.view.accessibility.Accessibi...
+ContentDataType
+Compose:recordChanges
+kotlin.Function5
+Picker
+kotlin.Function6
+androidx.content.action.LOAD_EMOJI_FONT
+Impulse
+Password
+HideFromAccessibility
+CompositionLocals
+SUSPEND_NO_WAITER
+Dispatchers.Main
+TraversalIndex
+EXTRA_SKIP_FILE_OPERATION
+rotation
+collectionInfo
+INTERNAL_ERROR
+cursive
+Cancelled
+notify_manager
+generic
+graphicsLayer
+Paragraph
+endY
+endX
+HOURS
+GoogleApiManager
+com.google.android.gms.signin.interna...
+android.intent.action.VIEW
+android.view.contentcapture.EventTime...
+short
+startY
+MINUTES
+time
+startX
+personFamilyName
+Cancelling
+COMPLETING_RETRY
+Strategy.Unspecified
+com.google.android.wearable.app.cn.UP...
+com.google.android.gms.common.interna...
+com.google.android.gms.common.interna...
+Function10
+tileMode
+sendSegment$volatile
+TypefaceCompat.createFromFontInfo
+XX:XX:XX:XX:
+android.widget.RadioButton
+android.widget.ImageView
+Function14
+ACCESSIBILITY_CLICKABLE_SPAN_ID
+Function13
+Function12
+NotUsed
+.sp
+Function11
+imeAction
+Function18
+Function17
+ACTION_PAGE_LEFT
+DialogRedirect
+Function16
+onPeerDisconnected
+Function15
+EmptyCoroutineContext
+RedirectCancelled
+CPU_ACQUIRED
+ACTION_ARGUMENT_SELECTION_END_INT
+FAILED
+POISONED
+font_ttc_index
+Boolean
+ACTION_SHOW_ON_SCREEN
+com.google
+item
+ChannelEventParcelable
+kotlin.jvm.internal.FloatCompanionObject
+buzzer
+tokenId
+Function21
+kotlinx.coroutines.scheduler.core.poo...
+kotlinx.coroutines.scheduler.max.pool...
+Function20
+double
+customActions
+newPassword
+Darken
+Function22
+smsOTPCode
+ConnectionTracker
+CustomActions
+robolectric
+getLocalLifecycleOwner
+strokeLineJoin
+BUFFERED
+Function19
+Low
+kotlin.Short
+showsUserInterface
+android.software.leanback
+common_google_play_services_api_unava...
+.apk
+CHANNEL_CLOSED
+BLOCKING
+SharingStarted.Lazily
+RecomposePending
+CurvedModifier
+java.lang.Throwable
+Shape
+/data/misc/profiles/cur/0/
+Outlined
+ApplyPending
+wear_consent_supervised
+Absolute
+Span
+kotlinx.coroutines.bufferedChannel.ex...
+unknown
+IsPlacedInLookahead
+android.widget.SeekBar
+compose:lazy:prefetch:available_time_...
+INITIALIZED
+com.google.android.gms.wearable.REQUE...
+android.hardware.type.watch
+OnPrimary
+LAZY
+resuming_sender
+addressLocality
+deqIdx$volatile
+LineHeightStyle.Alignment.Bottom
+java.util.Map$Entry
+ACTION_DRAG_START
+serverAuthCode
+com.google.android.gms.common.interna...
+birthDateDay
+.immediate
+char
+None
+onConnectedCapabilityChanged
+kotlin.Char.Companion
+IMMINENT
+com.google.android.gms.signin.interna...
+kotlinx.coroutines.fast.service.loader
+com.google.android.gms.wearable.CAPAB...
+ScrollToIndex
+EmojiCompatInitializer
+DataItem
+kotlin.Any
+KEY_COMPONENT_ACTIVITY_REGISTERED_RCS
+LineHeightStyle.Mode.Fixed
+Bevel
+IGNORED
+Send
+RESULT_INSTALL_SUCCESS
+notification
+CollectionItemInfo
+com.google.android.gms.common.interna...
+LocalLayoutDirection
+com.google.android.gms.signin.interna...
+BoundReached
+KEY_COMPONENT_ACTIVITY_REGISTERED_KEYS
+android.view.View
+ALIGN_RIGHT
+java.lang.Byte
+contentType
+com.google.android.gms.signin.interna...
+CLOSE_HANDLER_INVOKED
+group
+android.view.accessibility.action.ARG...
+java.lang.Cloneable
+package
+Compose:deactivate
+PausedComposition:applyChanges
+compose:lazy:schedule_prefetch:index
+kotlin.Long.Companion
+com.android.vending
+_rootCause$volatile
+ASSET_UNAVAILABLE
+LabelLarge
+Alpha8
+com.google.android.gms.signin
+ListIterator
+Applied
+wear_fast_pair_get_account_key_by_acc...
+firstVisibleItem:index
+CANCELLED
+DropdownList
+editableText
+androidx.compose.ui.semantics.shapeRect
+CLOSED_EMPTY
+kotlin.collections.Iterator
+android.support.action.showsUserInter...
+job
+SetTextSubstitution
+Rounded.Snooze
+kotlin.jvm.functions.Function18
+kotlin.jvm.functions.Function19
+CLOSED
+kotlin.jvm.functions.Function14
+LocalImageVectorCache
+kotlin.jvm.functions.Function15
+unexpected
+kotlin.jvm.functions.Function16
+kotlin.jvm.functions.Function17
+NO_RECEIVE_RESULT
+kotlin.jvm.functions.Function10
+isContainer
+PageRight
+kotlin.jvm.functions.Function11
+kotlin.jvm.functions.Function12
+LocalFocusManager
+Ltr
+kotlin.jvm.functions.Function13
+LineHeightStyle.Trim.None
+Touch
+googleSignInAccount:
+findViewByAccessibilityIdTraversal
+wear_offload_connection
+com.google.android.gms.signin.interna...
+kotlin.Enum
+Idle
+fillType
+CANCELED
+com.google.android.gms.signin.service...
+HardLight
+sendSemanticsPropertyChangeEvents
+common_google_play_services_resolutio...
+kotlin.String.Companion
+Size.Unspecified
+pcampaignid
+ACTION_PREVIOUS_HTML_ELEMENT
+LocalDensity
+http://schemas.android.com/apk/res/an...
+ActiveParent
+invalidateNodes
+ACTION_SHOW_TOOLTIP
+Compose:initializeView
+clear
+Ellipsis
+kotlin.jvm.functions.Function21
+kotlin.jvm.functions.Function22
+com.google.android.gms.wearable.inter...
+androidx.lifecycle.savedstate.vm.tag
+kotlin.jvm.functions.Function20
+DstOver
+SNOOZE
+NotInitialized
+NETWORK_ERROR
+wear_first_party_consents
+classes.dex
+_cur$volatile
+user
+getModule
+owner$volatile
+Left
+gradientRadius
+android.view.ViewStructure.extra.EXTR...
+android.widget.ProgressBar
+common_google_play_services_sign_in_f...
+wear_consents_per_watch
+kotlin.Cloneable
+compose:lazy:prefetch:measure
+onNotificationReceived
+SCHEDULED
+path
+Decimal
+Button
+PerformImeAction
+androidx.lifecycle.LifecycleDispatche...
+getSuppressed
+kotlin.reflect.jvm.internal.Reflectio...
+PARKING
+CutText
+ACTION_UNKNOWN
+AndroidOwner:viewLayout
+TertiaryContainer
+addObserver
+profile
+ContentQueryWrapper.query
+ClearTextSubstitution
+onChannelEvent
+SHOULD_BUFFER
+ON_ANY
+LineHeightStyle.Alignment.Center
+HFCTraversalKey
+guava.concurrent.generate_cancellatio...
+kotlin.Unit
+dose
+kotlinx.coroutines.scheduler.resoluti...
+ON_PAUSE
+kotlin.jvm.internal.StringCompanionOb...
+ContentDescription
+DpOffset.Unspecified
+FontProvider.query
+ACTION_CLICK
+Link
+TARGET_NODE_NOT_CONNECTED
+Recomposer:animation
+common_google_play_services_resolutio...
+wear_get_phone_switching_feature_status
+getEmojiConsistencySet
+OnAutofillText
+Set
+Theme.Dialog.Alert
+PageLeft
+icon
+_availablePermits$volatile
+DROP_LATEST
+serviceIntentCall
+UNSUPPORTED_BY_TARGET
+kotlin.jvm.internal.IntCompanionObject
+isSensitiveData
+kotlin.Boolean.Companion
+GmsClientSupervisor
+Entry
+wear_consent_recordoptin
+Selected
+common_google_play_services_restricte...
+OnErrorContainer
+RESULT_DESIRED_FORMAT_UNSUPPORTED
+androidx.view.accessibility.Accessibi...
+PrimaryContainer
+NumeralExtraLarge
+ACTION_IME_ENTER
+Strictness.Strict
+Blocking
+PERMIT
+android.os.SystemProperties
+Dp.Unspecified
+Recomposer:recompose
+IsPlacedInApproach
+onTrackpadScrollStopped
+ErrorContainer
+answer
+_reusableCancellableContinuation$vola...
+personNamePrefix
+ACTION_NEXT_AT_MOVEMENT_GRANULARITY
+LICENSE_CHECK_FAILED
+wear_await_data_sync_complete
+ReferentialEqualityPolicy
+Linearity.Linear
+dispatch
+CancelTraversal
+wear_get_node_id
+Difference
+ACTION_DRAG_CANCEL
+AwaitContinuation
+Compose:onForgotten
+androidx.view.accessibility.Accessibi...
+NumeralMedium
+Clickable
+kotlin.Boolean
+Underline
+autoMirrored
+List
+wear_get_local_capabilities
+DORMANT
+TAKE
+test
+Failed
+Color
+NonDisposableHandle
+Redirected
+Weight
+Role
+RectangleShape
+Rounded.Check
+ShowTextSubstitution
+onRequestReceived
+Dismiss
+java.lang.annotation.Annotation
+ACTION_ACCESSIBILITY_FOCUS
+android.widget.NumberPicker
+Measurement
+font_weight
+SignInCoordinator
+AndroidOwner:onMeasure
+ACTION_LONG_CLICK
+TERMINATED
+compositionLocalMap
+ACTION_SET_SELECTION
+measureAndLayout
+onFocusChange
+androidx.view.accessibility.Accessibi...
+title
+extendedAddress
+content
+LineHeightStyle.Mode.Minimum
+kotlin.collections.Map
+Number
+ProfileInstaller
+Hue
+java.lang.Boolean
+selector
+SourceFile
+classSimpleName
+pathData
+parkedWorkersStack$volatile
+false
+com.google.android.gms.common.telemet...
+TitleMedium
+common_google_play_services_network_e...
+und
+F16
+PendingWork
+%s
+trimPathStart
+lenientToString
+dispatchOnScrollChanged
+Ascii
+ScrollByOffset
+AndroidOwner:onLayout
+ACTION_MOVE_WINDOW
+strokeMiterLimit
+DEFAULT
+android.support.allowGeneratedReplies
+DROP_OLDEST
+wear_backup_restore
+LocalAutofillManager
+SetText
+invoke
+OnSurface
+viewportHeight
+Image
+clipboard
+_queue$volatile
+SecondaryDim
+_removedRef$volatile
+androidx.activity.result.contract.ext...
+androidx.compose.ui.input.nestedscrol...
+java.lang.Character
+action
+com.google.android.gms.signin.interna...
+id
+text
+%07x
+Captured
+Exit
+MILLISECONDS
+pnum
+LocalFontFamilyResolver
+blockingTasksInBuffer$volatile
+com.google.android.clockwork.home.UPD...
+primary.prof
+index
+RESOLUTION_REQUIRED
+UNDECIDED
+IndexForKey
+com.google.android.gms.wearable.NODE_...
+DUPLICATE_CAPABILITY
+Byte
+wear_consent_recordoptin_swaadl
+obfuscatedIdentifier
+TIMEOUT
+Cmyk
+Map
+arch_disk_io_
+NumeralExtraSmall
+StartEllipsis
+LocalClipboardManager
+Max
+ACTION_CLEAR_SELECTION
+TestTagsAsResourceId
+Right
+extras
+Uri
+InvisibleToUser
+Off
+Url
+DpSize.Unspecified
+delegate
+BodyMedium
+com.google.android.wearable.api.version
+file
+m$
+traversalIndex
+SKIP
+CancellableContinuation
+kotlin.jvm.internal.ShortCompanionObject
+Final
+Linearity.FontHinting
+kotlin.Int.Companion
+LineHeightStyle.Mode.Tight
+ACTION_PAGE_RIGHT
+max
+personNameSuffix
+kotlin.jvm.functions.Function
+receiveSegment$volatile
+serviceResponseIntentKey
+uri
+Annotation
+Italic
+wear_material3_experience
+textCompositionRange
+AccessibilityClassName
+android.widget.ScrollView
+ACTION_HIDE_TOOLTIP
+onPeerConnected
+/data/misc/profiles/ref/
+onMessageReceived
+EmojiCompat.MetadataRepo.create
+RESUMED
+android:text
+KEY_COMPONENT_ACTIVITY_PENDING_RESULT
+onFocusStateChange
+consumed$volatile
+newUsername
+Luminosity
+OnError
+LineHeightStyle.Trim.FirstLineTop
+com.google.android.gms.availability
+cleanedAndPointers$volatile
+ContinueTraversal
+isEditable
+personMiddleInitial
+Primary
+CLOSE_REASON_NORMAL
+strokeColor
+API_UNAVAILABLE
+selected
+com.google.android.gms.signin.interna...
+kotlin.Number
+sendersAndCloseStatus$volatile
+TOO_LATE_TO_CANCEL
+NULL
+Dst
+birthDateMonth
+Double
+onWheelScrollStopped
+personMiddleName
+UNFINISHED
+null
+font_italic
+focused
+Throwable
+Collection
+androidx.lifecycle.internal.SavedStat...
+phoneNational
+Samsung
+NonCancellable
+UNDISPATCHED
+androidx.compose.ui.semantics.shapeRe...
+Rounded.Close
+h:mm
+ComplexColorCompat
+Src
+android.hardware.rotaryencoder.lowres
+MIGRATION_NOT_CANCELLABLE
+ACTION_SCROLL_RIGHT
+GetScrollViewportLength
+androidx.compose.ui.semantics.testTag
+Clear
+androidx.savedstate.SavedStateRegistry
+photoUrl
+ACTION_SCROLL_LEFT
+theUnsafe
+STARTED
+kotlin.Byte.Companion
+kotlin.Comparable
+Inactive
+Round
+Height
+NeverEqualPolicy
+ComposeViewContext
+dose_reminders
+wear_update_connection_retry_strategy
+DONE_RCV
+Error
+COROUTINE_SUSPENDED
+android.widget.Spinner
+collectionItemInfo
+_LifecycleAdapter
+LineHeightStyle.Alignment.Top
+Completed
+TextEntryKey
+RESUME_TOKEN
+ACTION_PASTE
+ContentCapture:sendAppearEvents
+Vertical
+EditableText
+/reminder/answer
+common_google_play_services_restricte...
+Connected
+wear_cancel_migration
+CLOSE
+createAsync
+Unknown
+java.lang.Long
+java.util.Map
+/data/misc/profiles/cur/0
+Overlay
+INTERRUPTED
+TextDecoration.None
+ACTION_NEXT_HTML_ELEMENT
+Background
+BackgroundTextMeasurement
+ContentCapture:changeChecker
+Butt
+kotlin.Array
+ACTION_COLLAPSE
+node
+wear_logging_service
+Float
+input_method
+Min
+wdth
+Expand
+RESOLUTION_ACTIVITY_NOT_FOUND
+setCurrentState
+Cloneable
+CLOSE_REASON_REMOTE_CLOSE
+com.google.android.gms.signin.interna...
+statusCode
+OnTertiaryContainer
+androidx.activity.result.contract.ext...
+RESULT_CANCELED
+MICROSECONDS
+fillAlpha
+long
+com.google.android.gms.wearable.BIND
+min
+ACTION_PAGE_DOWN
+kotlinx.coroutines.channels.defaultBu...
+classes_to_restore
+isTraversalGroup
+DATA_ITEM_TOO_LARGE
+Exclusion
+ACTION_SCROLL_TO_POSITION
+vector
+email
+key
+animator_duration_scale
+kotlin.Enum.Companion
+RESOURCE
+profileinstaller_profileWrittenFor_la...
+IsNotPlaced
+creditCardExpirationDate
+GooglePlayServicesErrorDialog
+wear_fast_pair_account_key_sync
+ACTION_EXPAND
+SECONDS
+WRITE_SKIP_FILE
+onNodeMigrated
+kotlin.jvm.internal.ByteCompanionObject
+kotlin.Float
+_next$volatile
+fillableData
+compressed
+common_google_play_services_invalid_a...
+android.widget.EditText
+LocalFontLoader
+OnFillData
+contentDataType
+OnLongClick
+horizontalScrollAxisRange
+LookaheadMeasurement
+com.google.android.gms.signin.interna...
+postalCode
+LocalClipboard
+ShuttingDown
+onConnectedNodes
+PasteText
+personGivenName
+CLOSE_REASON_LOCAL_CLOSE
+FontFamily.Default
+ErrorDim
+kotlin.jvm.internal.CharCompanionObject
+SERVICE_MISSING_PERMISSION
+getAllUncoveredSemanticsNodesToIntObj...
+ReusedSlotId
+androidx.profileinstaller.action.INST...
+ON_START
+KEY_COMPONENT_ACTIVITY_LAUNCHED_KEYS
+up
+birthDateFull
+BROKEN
+Hyphens.Unspecified
+Dispatchers.Default
+kotlinx.coroutines.io.parallelism
+kotlinx.coroutines.flow.defaultConcur...
+monospace
+java.util.Collection
+Rounded.SkipNext
+CLOSE_HANDLER_CLOSED
+wear_customizable_screens
+PreventUserInput
+bufferEndSegment$volatile
+profileInstalled
+failure
+NOT_IN_STACK
+closeHandler$volatile
+serviceActionBundleKey
+semanticAction
+androidx.lifecycle.internal.SavedStat...
+IsEditable
+ACCOUNT_KEY_CREATION_FAILED
+_isTerminated$volatile
+InputText
+Compose:applyChanges
+removeObserver
+NANOSECONDS
+NumeralLarge
+ON_DESTROY
+consumerIndex$volatile
+VIEW_APPEAR
+com.google.android.gms
+ColorBurn
+LocalContext
+wear3_oem_companion
+wear_update_config
+Empty
+RESULT_ALREADY_INSTALLED
+wear_update_delay_config
+INVALID_ACCOUNT
+androidx.compose.ui.semantics.shapeType
+FontsProvider
+Iterator
+android.view.accessibility.extra.EXTR...
+wear_get_node_active_network_metered
+kotlin.jvm.internal.DoubleCompanionOb...
+SetProgress
+android.intent.action.TIMEZONE_CHANGED
+WearSignatureVerifier
+UidVerifier
+MiddleEllipsis
+creditCardExpirationYear
+TextLayout:initLayout
+Saturation
+_decisionAndIndex$volatile
+androidx.core.app.NotificationCompat$...
+Dispatchers.Main.immediate
+OnSecondary
+Compose:onRemembered
+LocalResourceIdCache
+REMOVED_TASK
+java.lang.Object
+SrcOut
+ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY
+dexopt/baseline.profm
+kotlinx.coroutines.bufferedChannel.se...
+extendedPostalCode
+ContentType
+Strictness.Normal
+LiveRegion
+type
+LocalView
+allowedPackages
+appops
+Argb8888
+WIFI_CONNECTION_FAILED
+NONE
+cont
+addChangeCallback
+IsShowingTextSubstitution
+Finished
+ACTION_ARGUMENT_MOVEMENT_GRANULARITY_INT
+partialLayoutInfo
+kotlinx.coroutines.semaphore.maxSpinC...
+ShutDown
+carrier_auth
+java.util.Set
+ACTION_ARGUMENT_SELECTION_START_INT
+androidx.compose.ui.semantics.shapeCo...
+Switch
+Next
+kotlin.Function20
+result_code
+ACTION_FOCUS
+_delayed$volatile
+kotlin.Function21
+kotlin.Function22
+DELETE_SKIP_FILE
+Heading
+android.support.action.semanticAction
+androidx.compose.ui.semantics.id
+kotlin.collections.MutableMap
+gender
+market://details
+java.lang.Double
+ActivityResultRegistry
+allowedDataItemFilters
+DisplayLarge
+NO_MIGRATION_FOUND_TO_CANCEL
+UNKNOWN_LISTENER
+punch
+GooglePlayServicesUtil
+Clip
+kotlin.Function16
+kotlin.Function17
+kotlin.Function14
+kotlin.Function15
+com.google.android.gms.wearable.inter...
+feature
+NO_THREAD_ELEMENTS
+Char
+kotlin.Function18
+INTERRUPTED_SEND
+kotlin.Function19
+Visible
+velocityVector
+java.lang.Number
+kotlin.Function12
+kotlin.Function13
+kotlin.Function10
+kotlin.Function11
+app_client
+CHANNEL_OPENED
+DefaultExecutor
+bufferEnd$volatile
+PENDING
+controlState$volatile
+compose:lazy:prefetch:idle_frame
+androidx.profileinstaller.action.BENC...
+Compose:onPositionedCallbacks
+LabelMedium
+android.view.accessibility.extra.DATA...
+updateSemanticsNodesCopyAndPanes
+phoneNumberDevice
+LocalTextToolbar
+Tab
+ACTION_SET_TEXT
+java.lang.Comparable
+strokeAlpha
+URI_MASKABLE
+DstAtop
+AndroidOwner:outOfFrameExecutor
+ON_CREATE
+Done
+androidx.graphics.path
+ON_RESUME
+float
+LocalConfiguration
+API_VERSION_UPDATE_REQUIRED
+reference
+BodyLarge
+API_DISABLED
+java.lang.Enum
+Linearity.None
+LocalUriHandler
+progressBarRangeInfo
+familyName
+INVALID_TARGET_NODE
+InLayoutBlock
+android.permission.POST_NOTIFICATIONS
+enqIdx$volatile
+android.hardware.type.embedded
+EmojiCompat.FontRequestEmojiCompatCon...
+PageUp
+SecondaryContainer
+LocalHapticFeedback
+Strategy.Balanced
+TextMotion.Static
+kotlin.jvm.internal.EnumCompanionObject
+CharSequence
+_exceptionsHolder$volatile
+ACTION_COPY
+RESULT_UNSUPPORTED_ART_VERSION
+WatchReminders
+inputTextSuggestionState
+LineHeightStyle.Trim.Both
+Softlight
+allowedCapabilities
+SERVICE_INVALID
+Active
+android.widget.TextView
+postalAddress
+kotlin.collections.Iterable
+DATA
+Content
+FocusTransactions:requestFocus
+file_id
+endVelocityVector
+send
+Both
+UNKNOWN_CAPABILITY
+AndroidOwner:measureAndLayout
+ime
+requestFocus
+lastVisibleItem:index
+android.text.EmojiConsistency
+kotlin.collections.Map.Entry
+ScrollBy
+producerIndex$volatile
+Screen
+ACTION_CUT
+localRect
+failing_client_id
+Strictness.Unspecified
+Int
+kotlin.Byte
+CopyText
+_parentHandle$volatile
+alarm
+SelectableGroup
+kotlin.collections.Set
+value
+androidx.activity.result.contract.ext...
+TextMotion.Animated
+Secondary
+REUSABLE_CLAIMED
+LineHeightStyle.Trim.LastLineBottom
+java.util.Iterator
+focusProperties
+0x%08x
+GmsClient
+TestTag
+TitleLarge
+Parcelizer
+ON_STOP
+wght
+compose:lazy:prefetch:apply
+kotlin.CharSequence
+fontMetrics
+RESULT_IO_EXCEPTION
+REMOTE_EXCEPTION
+int
+wear_retry_connection
+personName
+boolean
+androidx.activity.result.contract.act...
+com.google.android.wearable.app
+SrcAtop
+trimPathOffset
+serif
+emit
+LocalWindowInfo
+providers
+Marking style:TextAppearance_Compat_Notification:2131558402 used because it matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Info:2131558403 used because it matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Line2:2131558404 used because it matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Time:2131558405 used because it matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Title:2131558406 used because it matches string pool constant Text
+Marking id:accessibility_action_clickable_span:2131099648 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_0:2131099649 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_1:2131099650 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_10:2131099651 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_11:2131099652 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_12:2131099653 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_13:2131099654 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_14:2131099655 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_15:2131099656 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_16:2131099657 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_17:2131099658 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_18:2131099659 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_19:2131099660 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_2:2131099661 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_20:2131099662 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_21:2131099663 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_22:2131099664 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_23:2131099665 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_24:2131099666 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_25:2131099667 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_26:2131099668 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_27:2131099669 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_28:2131099670 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_29:2131099671 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_3:2131099672 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_30:2131099673 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_31:2131099674 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_4:2131099675 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_5:2131099676 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_6:2131099677 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_7:2131099678 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_8:2131099679 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_9:2131099680 used because it matches string pool constant accessibility
+Marking attr:shortcutMatchRequired:2130837544 used because it matches string pool constant short
+Marking id:time:2131099761 used because it matches string pool constant time
+Marking color:notification_action_color_filter:2130903055 used because it matches string pool constant notification
+Marking color:notification_icon_bg_color:2130903056 used because it matches string pool constant notification
+Marking dimen:notification_action_icon_size:2130968583 used because it matches string pool constant notification
+Marking dimen:notification_action_text_size:2130968584 used because it matches string pool constant notification
+Marking dimen:notification_big_circle_margin:2130968585 used because it matches string pool constant notification
+Marking dimen:notification_content_margin_start:2130968586 used because it matches string pool constant notification
+Marking dimen:notification_large_icon_height:2130968587 used because it matches string pool constant notification
+Marking dimen:notification_large_icon_width:2130968588 used because it matches string pool constant notification
+Marking dimen:notification_main_column_padding_top:2130968589 used because it matches string pool constant notification
+Marking dimen:notification_media_narrow_margin:2130968590 used because it matches string pool constant notification
+Marking dimen:notification_right_icon_size:2130968591 used because it matches string pool constant notification
+Marking dimen:notification_right_side_padding_top:2130968592 used because it matches string pool constant notification
+Marking dimen:notification_small_icon_background_padding:2130968593 used because it matches string pool constant notification
+Marking dimen:notification_small_icon_size_as_large:2130968594 used because it matches string pool constant notification
+Marking dimen:notification_subtext_size:2130968595 used because it matches string pool constant notification
+Marking dimen:notification_top_pad:2130968596 used because it matches string pool constant notification
+Marking dimen:notification_top_pad_large_text:2130968597 used because it matches string pool constant notification
+Marking drawable:notification_action_background:2131034185 used because it matches string pool constant notification
+Marking drawable:notification_bg:2131034186 used because it matches string pool constant notification
+Marking drawable:notification_bg_low:2131034187 used because it matches string pool constant notification
+Marking drawable:notification_bg_low_normal:2131034188 used because it matches string pool constant notification
+Marking drawable:notification_bg_low_pressed:2131034189 used because it matches string pool constant notification
+Marking drawable:notification_bg_normal:2131034190 used because it matches string pool constant notification
+Marking drawable:notification_bg_normal_pressed:2131034191 used because it matches string pool constant notification
+Marking drawable:notification_icon_background:2131034192 used because it matches string pool constant notification
+Marking drawable:notification_oversize_large_icon_bg:2131034193 used because it matches string pool constant notification
+Marking drawable:notification_template_icon_bg:2131034194 used because it matches string pool constant notification
+Marking drawable:notification_template_icon_low_bg:2131034195 used because it matches string pool constant notification
+Marking drawable:notification_tile_bg:2131034196 used because it matches string pool constant notification
+Marking id:notification_background:2131099731 used because it matches string pool constant notification
+Marking id:notification_main_column:2131099732 used because it matches string pool constant notification
+Marking id:notification_main_column_container:2131099733 used because it matches string pool constant notification
+Marking layout:notification_action:2131230723 used because it matches string pool constant notification
+Marking layout:notification_action_tombstone:2131230724 used because it matches string pool constant notification
+Marking layout:notification_template_custom_big:2131230725 used because it matches string pool constant notification
+Marking layout:notification_template_icon_group:2131230726 used because it matches string pool constant notification
+Marking layout:notification_template_part_chronometer:2131230727 used because it matches string pool constant notification
+Marking layout:notification_template_part_time:2131230728 used because it matches string pool constant notification
+Marking plurals:notification_title_many:2131361792 used because it matches string pool constant notification
+Marking string:notification_channel_reminders:2131492908 used because it matches string pool constant notification
+Marking string:notification_channel_reminders_description:2131492909 used because it matches string pool constant notification
+Marking string:notification_title_one:2131492910 used because it matches string pool constant notification
+Marking attr:clearTop:2130837511 used because it matches string pool constant clear
+Marking id:icon:2131099715 used because it matches string pool constant icon
+Marking id:icon_group:2131099716 used because it matches string pool constant icon
+Marking id:icon_only:2131099717 used because it matches string pool constant icon
+Marking string:test_label:2131492926 used because it matches string pool constant test
+Marking id:title:2131099762 used because it matches string pool constant title
+Marking id:action_container:2131099681 used because it matches string pool constant action
+Marking id:action_divider:2131099682 used because it matches string pool constant action
+Marking id:action_image:2131099683 used because it matches string pool constant action
+Marking id:action_text:2131099684 used because it matches string pool constant action
+Marking id:actions:2131099685 used because it matches string pool constant action
+Marking string:action_allow:2131492864 used because it matches string pool constant action
+Marking string:action_close:2131492865 used because it matches string pool constant action
+Marking string:action_skip:2131492866 used because it matches string pool constant action
+Marking string:action_snooze:2131492867 used because it matches string pool constant action
+Marking string:action_take:2131492868 used because it matches string pool constant action
+Marking string:action_take_all:2131492869 used because it matches string pool constant action
+Marking id:text:2131099759 used because it matches string pool constant text
+Marking id:text2:2131099760 used because it matches string pool constant text
+Marking string:selected:2131492913 used because it matches string pool constant selected
+Marking style:FloatingDialogWindowTheme:2131558401 used because it matches string pool constant Float
+Marking color:vector_tint_color:2130903057 used because it matches string pool constant vector
+Marking color:vector_tint_theme_color:2130903058 used because it matches string pool constant vector
+Marking layout:ime_base_split_test_activity:2131230721 used because it matches string pool constant ime
+Marking layout:ime_secondary_split_test_activity:2131230722 used because it matches string pool constant ime
+@com.wwwescape.medicinereminder:array/android_wear_capabilities : reachable=true
+@com.wwwescape.medicinereminder:attr/activityAction : reachable=false
+@com.wwwescape.medicinereminder:attr/activityName : reachable=false
+@com.wwwescape.medicinereminder:attr/alpha : reachable=true
+@com.wwwescape.medicinereminder:attr/alwaysExpand : reachable=false
+@com.wwwescape.medicinereminder:attr/animationBackgroundColor : reachable=false
+@com.wwwescape.medicinereminder:attr/buttonSize : reachable=false
+@com.wwwescape.medicinereminder:attr/circleCrop : reachable=false
+@com.wwwescape.medicinereminder:attr/clearTop : reachable=true
+@com.wwwescape.medicinereminder:attr/colorScheme : reachable=false
+@com.wwwescape.medicinereminder:attr/dragRangeMaxRatio : reachable=false
+@com.wwwescape.medicinereminder:attr/dragRangeMinRatio : reachable=false
+@com.wwwescape.medicinereminder:attr/embeddingDividerColor : reachable=false
+@com.wwwescape.medicinereminder:attr/embeddingDividerType : reachable=false
+@com.wwwescape.medicinereminder:attr/embeddingDividerWidthDp : reachable=false
+@com.wwwescape.medicinereminder:attr/finishPrimaryWithPlaceholder : reachable=false
+@com.wwwescape.medicinereminder:attr/finishPrimaryWithSecondary : reachable=false
+@com.wwwescape.medicinereminder:attr/finishSecondaryWithPrimary : reachable=false
+@com.wwwescape.medicinereminder:attr/font : reachable=false
+@com.wwwescape.medicinereminder:attr/fontProviderAuthority : reachable=false
+@com.wwwescape.medicinereminder:attr/fontProviderCerts : reachable=false
+@com.wwwescape.medicinereminder:attr/fontProviderFallbackQuery : reachable=false
+@com.wwwescape.medicinereminder:attr/fontProviderFetchStrategy : reachable=false
+@com.wwwescape.medicinereminder:attr/fontProviderFetchTimeout : reachable=false
+@com.wwwescape.medicinereminder:attr/fontProviderPackage : reachable=false
+@com.wwwescape.medicinereminder:attr/fontProviderQuery : reachable=false
+@com.wwwescape.medicinereminder:attr/fontProviderSystemFontFamily : reachable=false
+@com.wwwescape.medicinereminder:attr/fontStyle : reachable=false
+@com.wwwescape.medicinereminder:attr/fontVariationSettings : reachable=false
+@com.wwwescape.medicinereminder:attr/fontWeight : reachable=false
+@com.wwwescape.medicinereminder:attr/imageAspectRatio : reachable=false
+@com.wwwescape.medicinereminder:attr/imageAspectRatioAdjust : reachable=false
+@com.wwwescape.medicinereminder:attr/isDraggingToFullscreenAllowed : reachable=false
+@com.wwwescape.medicinereminder:attr/lStar : reachable=true
+@com.wwwescape.medicinereminder:attr/nestedScrollViewStyle : reachable=false
+@com.wwwescape.medicinereminder:attr/placeholderActivityName : reachable=false
+@com.wwwescape.medicinereminder:attr/primaryActivityName : reachable=false
+@com.wwwescape.medicinereminder:attr/queryPatterns : reachable=false
+@com.wwwescape.medicinereminder:attr/scopeUris : reachable=false
+@com.wwwescape.medicinereminder:attr/secondaryActivityAction : reachable=false
+@com.wwwescape.medicinereminder:attr/secondaryActivityName : reachable=false
+@com.wwwescape.medicinereminder:attr/shortcutMatchRequired : reachable=true
+@com.wwwescape.medicinereminder:attr/splitChangeAnimation : reachable=false
+@com.wwwescape.medicinereminder:attr/splitCloseAnimation : reachable=false
+@com.wwwescape.medicinereminder:attr/splitLayoutDirection : reachable=false
+@com.wwwescape.medicinereminder:attr/splitMaxAspectRatioInLandscape : reachable=false
+@com.wwwescape.medicinereminder:attr/splitMaxAspectRatioInPortrait : reachable=false
+@com.wwwescape.medicinereminder:attr/splitMinHeightDp : reachable=false
+@com.wwwescape.medicinereminder:attr/splitMinSmallestWidthDp : reachable=false
+@com.wwwescape.medicinereminder:attr/splitMinWidthDp : reachable=false
+@com.wwwescape.medicinereminder:attr/splitOpenAnimation : reachable=false
+@com.wwwescape.medicinereminder:attr/splitRatio : reachable=false
+@com.wwwescape.medicinereminder:attr/stickyPlaceholder : reachable=false
+@com.wwwescape.medicinereminder:attr/tag : reachable=false
+@com.wwwescape.medicinereminder:attr/ttcIndex : reachable=false
+@com.wwwescape.medicinereminder:color/androidx_core_ripple_material_light : reachable=false
+@com.wwwescape.medicinereminder:color/androidx_core_secondary_text_default_material_light : reachable=false
+@com.wwwescape.medicinereminder:color/call_notification_answer_color : reachable=false
+@com.wwwescape.medicinereminder:color/call_notification_decline_color : reachable=false
+@com.wwwescape.medicinereminder:color/common_google_signin_btn_text_dark : reachable=false
+    @com.wwwescape.medicinereminder:color/common_google_signin_btn_text_dark_disabled
+    @com.wwwescape.medicinereminder:color/common_google_signin_btn_text_dark_pressed
+    @com.wwwescape.medicinereminder:color/common_google_signin_btn_text_dark_focused
+    @com.wwwescape.medicinereminder:color/common_google_signin_btn_text_dark_default
+@com.wwwescape.medicinereminder:color/common_google_signin_btn_text_dark_default : reachable=false
+@com.wwwescape.medicinereminder:color/common_google_signin_btn_text_dark_disabled : reachable=false
+@com.wwwescape.medicinereminder:color/common_google_signin_btn_text_dark_focused : reachable=false
+@com.wwwescape.medicinereminder:color/common_google_signin_btn_text_dark_pressed : reachable=false
+@com.wwwescape.medicinereminder:color/common_google_signin_btn_text_light : reachable=false
+    @com.wwwescape.medicinereminder:color/common_google_signin_btn_text_light_disabled
+    @com.wwwescape.medicinereminder:color/common_google_signin_btn_text_light_pressed
+    @com.wwwescape.medicinereminder:color/common_google_signin_btn_text_light_focused
+    @com.wwwescape.medicinereminder:color/common_google_signin_btn_text_light_default
+@com.wwwescape.medicinereminder:color/common_google_signin_btn_text_light_default : reachable=false
+@com.wwwescape.medicinereminder:color/common_google_signin_btn_text_light_disabled : reachable=false
+@com.wwwescape.medicinereminder:color/common_google_signin_btn_text_light_focused : reachable=false
+@com.wwwescape.medicinereminder:color/common_google_signin_btn_text_light_pressed : reachable=false
+@com.wwwescape.medicinereminder:color/common_google_signin_btn_tint : reachable=false
+@com.wwwescape.medicinereminder:color/notification_action_color_filter : reachable=true
+    @com.wwwescape.medicinereminder:color/androidx_core_secondary_text_default_material_light
+@com.wwwescape.medicinereminder:color/notification_icon_bg_color : reachable=true
+@com.wwwescape.medicinereminder:color/vector_tint_color : reachable=true
+@com.wwwescape.medicinereminder:color/vector_tint_theme_color : reachable=true
+@com.wwwescape.medicinereminder:dimen/compat_button_inset_horizontal_material : reachable=false
+@com.wwwescape.medicinereminder:dimen/compat_button_inset_vertical_material : reachable=false
+@com.wwwescape.medicinereminder:dimen/compat_button_padding_horizontal_material : reachable=false
+@com.wwwescape.medicinereminder:dimen/compat_button_padding_vertical_material : reachable=false
+@com.wwwescape.medicinereminder:dimen/compat_control_corner_material : reachable=false
+@com.wwwescape.medicinereminder:dimen/compat_notification_large_icon_max_height : reachable=false
+@com.wwwescape.medicinereminder:dimen/compat_notification_large_icon_max_width : reachable=false
+@com.wwwescape.medicinereminder:dimen/notification_action_icon_size : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_action_text_size : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_big_circle_margin : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_content_margin_start : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_large_icon_height : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_large_icon_width : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_main_column_padding_top : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_media_narrow_margin : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_right_icon_size : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_right_side_padding_top : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_small_icon_background_padding : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_small_icon_size_as_large : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_subtext_size : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_top_pad : reachable=true
+@com.wwwescape.medicinereminder:dimen/notification_top_pad_large_text : reachable=true
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_check_animation__0 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_check_animation__1 : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_check_animation__2
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_check_animation__2 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_check_animation__3 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__0 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__1 : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__2
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__3
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__10 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__11 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__2 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__3 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__4 : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__5
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__6
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__5 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__6 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__7 : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__8
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__8 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__9 : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__10
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__0 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__1 : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__2
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__3
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__10 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__11 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__12 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__13 : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__14
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__15
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__14 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__15 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__16 : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__17
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__18
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__19
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__17 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__18 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__19 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__2 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__20 : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__21
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__22
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__23
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__21 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__22 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__23 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__24 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__25 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__3 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__4 : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__5
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__6
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__7
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__5 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__6 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__7 : reachable=false
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__8 : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__9
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__10
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__11
+@com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__9 : reachable=false
+@com.wwwescape.medicinereminder:drawable/common_full_open_on_phone : reachable=true
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_dark : reachable=false
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_disabled
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_dark_focused
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_dark_normal
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_dark_focused : reachable=false
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_dark_normal
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_dark_normal : reachable=false
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_dark_normal_background
+    @com.wwwescape.medicinereminder:drawable/googleg_standard_color_18
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_dark_normal_background : reachable=false
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_disabled : reachable=false
+    @com.wwwescape.medicinereminder:drawable/googleg_disabled_color_18
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_light : reachable=false
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_disabled
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_light_focused
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_light_normal
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_light_focused : reachable=false
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_light_normal
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_light_normal : reachable=false
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_light_normal_background
+    @com.wwwescape.medicinereminder:drawable/googleg_standard_color_18
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_icon_light_normal_background : reachable=false
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_dark : reachable=false
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_disabled
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_dark_focused
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_dark_normal
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_dark_focused : reachable=false
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_dark_normal
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_dark_normal : reachable=false
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_dark_normal_background
+    @com.wwwescape.medicinereminder:drawable/googleg_standard_color_18
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_dark_normal_background : reachable=false
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_disabled : reachable=false
+    @com.wwwescape.medicinereminder:drawable/googleg_disabled_color_18
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_light : reachable=false
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_disabled
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_light_focused
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_light_normal
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_light_focused : reachable=false
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_light_normal
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_light_normal : reachable=false
+    @com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_light_normal_background
+    @com.wwwescape.medicinereminder:drawable/googleg_standard_color_18
+@com.wwwescape.medicinereminder:drawable/common_google_signin_btn_text_light_normal_background : reachable=false
+@com.wwwescape.medicinereminder:drawable/googleg_disabled_color_18 : reachable=false
+@com.wwwescape.medicinereminder:drawable/googleg_standard_color_18 : reachable=false
+@com.wwwescape.medicinereminder:drawable/ic_call_answer : reachable=false
+@com.wwwescape.medicinereminder:drawable/ic_call_answer_low : reachable=false
+@com.wwwescape.medicinereminder:drawable/ic_call_answer_video : reachable=false
+@com.wwwescape.medicinereminder:drawable/ic_call_answer_video_low : reachable=false
+@com.wwwescape.medicinereminder:drawable/ic_call_decline : reachable=false
+@com.wwwescape.medicinereminder:drawable/ic_call_decline_low : reachable=false
+@com.wwwescape.medicinereminder:drawable/ic_launcher_background : reachable=false
+@com.wwwescape.medicinereminder:drawable/ic_launcher_foreground : reachable=true
+@com.wwwescape.medicinereminder:drawable/ic_launcher_monochrome : reachable=false
+@com.wwwescape.medicinereminder:drawable/ic_stat_prescriptions : reachable=true
+@com.wwwescape.medicinereminder:drawable/notification_action_background : reachable=true
+    @com.wwwescape.medicinereminder:color/androidx_core_ripple_material_light
+    @com.wwwescape.medicinereminder:dimen/compat_button_inset_horizontal_material
+    @com.wwwescape.medicinereminder:dimen/compat_button_inset_vertical_material
+    @com.wwwescape.medicinereminder:dimen/compat_control_corner_material
+    @com.wwwescape.medicinereminder:dimen/compat_button_padding_vertical_material
+    @com.wwwescape.medicinereminder:dimen/compat_button_padding_horizontal_material
+@com.wwwescape.medicinereminder:drawable/notification_bg : reachable=true
+    @com.wwwescape.medicinereminder:drawable/notification_bg_normal_pressed
+    @com.wwwescape.medicinereminder:drawable/notification_bg_normal
+@com.wwwescape.medicinereminder:drawable/notification_bg_low : reachable=true
+    @com.wwwescape.medicinereminder:drawable/notification_bg_low_pressed
+    @com.wwwescape.medicinereminder:drawable/notification_bg_low_normal
+@com.wwwescape.medicinereminder:drawable/notification_bg_low_normal : reachable=true
+@com.wwwescape.medicinereminder:drawable/notification_bg_low_pressed : reachable=true
+@com.wwwescape.medicinereminder:drawable/notification_bg_normal : reachable=true
+@com.wwwescape.medicinereminder:drawable/notification_bg_normal_pressed : reachable=true
+@com.wwwescape.medicinereminder:drawable/notification_icon_background : reachable=true
+    @com.wwwescape.medicinereminder:color/notification_icon_bg_color
+@com.wwwescape.medicinereminder:drawable/notification_oversize_large_icon_bg : reachable=true
+@com.wwwescape.medicinereminder:drawable/notification_template_icon_bg : reachable=true
+@com.wwwescape.medicinereminder:drawable/notification_template_icon_low_bg : reachable=true
+@com.wwwescape.medicinereminder:drawable/notification_tile_bg : reachable=true
+    @com.wwwescape.medicinereminder:drawable/notify_panel_notification_icon_bg
+@com.wwwescape.medicinereminder:drawable/notify_panel_notification_icon_bg : reachable=false
+@com.wwwescape.medicinereminder:drawable/wear_m3c_check_animation : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_check_animation__0
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_check_animation__1
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_check_animation__3
+@com.wwwescape.medicinereminder:drawable/wear_m3c_failure_animation : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__0
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__1
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__4
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__7
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__9
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_failure_animation__11
+@com.wwwescape.medicinereminder:drawable/wear_m3c_open_on_phone_animation : reachable=false
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__0
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__1
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__4
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__8
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__12
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__13
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__16
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__20
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__24
+    @com.wwwescape.medicinereminder:drawable/$wear_m3c_open_on_phone_animation__25
+@com.wwwescape.medicinereminder:id/accessibility_action_clickable_span : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_0 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_1 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_10 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_11 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_12 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_13 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_14 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_15 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_16 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_17 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_18 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_19 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_2 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_20 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_21 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_22 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_23 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_24 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_25 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_26 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_27 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_28 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_29 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_3 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_30 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_31 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_4 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_5 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_6 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_7 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_8 : reachable=true
+@com.wwwescape.medicinereminder:id/accessibility_custom_action_9 : reachable=true
+@com.wwwescape.medicinereminder:id/action_container : reachable=true
+@com.wwwescape.medicinereminder:id/action_divider : reachable=true
+@com.wwwescape.medicinereminder:id/action_image : reachable=true
+@com.wwwescape.medicinereminder:id/action_text : reachable=true
+@com.wwwescape.medicinereminder:id/actions : reachable=true
+@com.wwwescape.medicinereminder:id/adjacent : reachable=false
+@com.wwwescape.medicinereminder:id/adjust_height : reachable=false
+@com.wwwescape.medicinereminder:id/adjust_width : reachable=false
+@com.wwwescape.medicinereminder:id/always : reachable=false
+@com.wwwescape.medicinereminder:id/alwaysAllow : reachable=false
+@com.wwwescape.medicinereminder:id/alwaysDisallow : reachable=false
+@com.wwwescape.medicinereminder:id/androidx_compose_ui_view_compose_view_context : reachable=true
+@com.wwwescape.medicinereminder:id/androidx_compose_ui_view_composition_context : reachable=true
+@com.wwwescape.medicinereminder:id/androidx_window_activity_scope : reachable=false
+@com.wwwescape.medicinereminder:id/async : reachable=false
+@com.wwwescape.medicinereminder:id/auto : reachable=false
+@com.wwwescape.medicinereminder:id/auto_clear_focus_behavior_tag : reachable=true
+@com.wwwescape.medicinereminder:id/blocking : reachable=false
+@com.wwwescape.medicinereminder:id/bottomToTop : reachable=false
+@com.wwwescape.medicinereminder:id/chronometer : reachable=false
+@com.wwwescape.medicinereminder:id/compose_prefetch_scheduler : reachable=true
+@com.wwwescape.medicinereminder:id/compose_view_saveable_id_tag : reachable=true
+@com.wwwescape.medicinereminder:id/consume_window_insets_tag : reachable=false
+@com.wwwescape.medicinereminder:id/dark : reachable=false
+@com.wwwescape.medicinereminder:id/dialog_button : reachable=false
+@com.wwwescape.medicinereminder:id/draggable : reachable=false
+@com.wwwescape.medicinereminder:id/edit_text_id : reachable=false
+@com.wwwescape.medicinereminder:id/fixed : reachable=false
+@com.wwwescape.medicinereminder:id/forever : reachable=false
+@com.wwwescape.medicinereminder:id/ghost_view : reachable=false
+@com.wwwescape.medicinereminder:id/ghost_view_holder : reachable=false
+@com.wwwescape.medicinereminder:id/hide_graphics_layer_in_inspector_tag : reachable=false
+@com.wwwescape.medicinereminder:id/hide_ime_id : reachable=false
+@com.wwwescape.medicinereminder:id/hide_in_inspector_tag : reachable=true
+@com.wwwescape.medicinereminder:id/icon : reachable=true
+@com.wwwescape.medicinereminder:id/icon_group : reachable=true
+@com.wwwescape.medicinereminder:id/icon_only : reachable=true
+@com.wwwescape.medicinereminder:id/info : reachable=false
+@com.wwwescape.medicinereminder:id/inspection_slot_table_set : reachable=true
+@com.wwwescape.medicinereminder:id/is_pooling_container_tag : reachable=true
+@com.wwwescape.medicinereminder:id/italic : reachable=false
+@com.wwwescape.medicinereminder:id/jumpCut : reachable=false
+@com.wwwescape.medicinereminder:id/light : reachable=false
+@com.wwwescape.medicinereminder:id/line1 : reachable=false
+@com.wwwescape.medicinereminder:id/line3 : reachable=false
+@com.wwwescape.medicinereminder:id/locale : reachable=false
+@com.wwwescape.medicinereminder:id/ltr : reachable=false
+@com.wwwescape.medicinereminder:id/never : reachable=false
+@com.wwwescape.medicinereminder:id/none : reachable=false
+@com.wwwescape.medicinereminder:id/normal : reachable=false
+@com.wwwescape.medicinereminder:id/notification_background : reachable=true
+@com.wwwescape.medicinereminder:id/notification_main_column : reachable=true
+@com.wwwescape.medicinereminder:id/notification_main_column_container : reachable=true
+@com.wwwescape.medicinereminder:id/parent_matrix : reachable=false
+@com.wwwescape.medicinereminder:id/pooling_container_listener_holder_tag : reachable=true
+@com.wwwescape.medicinereminder:id/report_drawn : reachable=true
+@com.wwwescape.medicinereminder:id/right_icon : reachable=false
+@com.wwwescape.medicinereminder:id/right_side : reachable=false
+@com.wwwescape.medicinereminder:id/rtl : reachable=false
+@com.wwwescape.medicinereminder:id/save_non_transition_alpha : reachable=false
+@com.wwwescape.medicinereminder:id/save_overlay_view : reachable=false
+@com.wwwescape.medicinereminder:id/standard : reachable=false
+@com.wwwescape.medicinereminder:id/systemDefault : reachable=false
+@com.wwwescape.medicinereminder:id/tag_accessibility_actions : reachable=true
+@com.wwwescape.medicinereminder:id/tag_accessibility_clickable_spans : reachable=true
+@com.wwwescape.medicinereminder:id/tag_accessibility_heading : reachable=false
+@com.wwwescape.medicinereminder:id/tag_accessibility_pane_title : reachable=false
+@com.wwwescape.medicinereminder:id/tag_compat_insets_dispatch : reachable=true
+@com.wwwescape.medicinereminder:id/tag_on_apply_window_listener : reachable=false
+@com.wwwescape.medicinereminder:id/tag_on_receive_content_listener : reachable=false
+@com.wwwescape.medicinereminder:id/tag_on_receive_content_mime_types : reachable=false
+@com.wwwescape.medicinereminder:id/tag_screen_reader_focusable : reachable=false
+@com.wwwescape.medicinereminder:id/tag_state_description : reachable=false
+@com.wwwescape.medicinereminder:id/tag_system_bar_state_monitor : reachable=false
+@com.wwwescape.medicinereminder:id/tag_transition_group : reachable=false
+@com.wwwescape.medicinereminder:id/tag_unhandled_key_event_manager : reachable=false
+@com.wwwescape.medicinereminder:id/tag_unhandled_key_listeners : reachable=false
+@com.wwwescape.medicinereminder:id/tag_window_insets_animation_callback : reachable=true
+@com.wwwescape.medicinereminder:id/text : reachable=true
+@com.wwwescape.medicinereminder:id/text2 : reachable=true
+@com.wwwescape.medicinereminder:id/time : reachable=true
+@com.wwwescape.medicinereminder:id/title : reachable=true
+@com.wwwescape.medicinereminder:id/topToBottom : reachable=false
+@com.wwwescape.medicinereminder:id/transition_clip : reachable=false
+@com.wwwescape.medicinereminder:id/transition_current_scene : reachable=false
+@com.wwwescape.medicinereminder:id/transition_image_transform : reachable=false
+@com.wwwescape.medicinereminder:id/transition_layout_save : reachable=false
+@com.wwwescape.medicinereminder:id/transition_pause_alpha : reachable=false
+@com.wwwescape.medicinereminder:id/transition_position : reachable=false
+@com.wwwescape.medicinereminder:id/transition_scene_layoutid_cache : reachable=false
+@com.wwwescape.medicinereminder:id/transition_transform : reachable=false
+@com.wwwescape.medicinereminder:id/view_tree_disjoint_parent : reachable=true
+@com.wwwescape.medicinereminder:id/view_tree_lifecycle_owner : reachable=true
+@com.wwwescape.medicinereminder:id/view_tree_on_back_pressed_dispatcher_owner : reachable=true
+@com.wwwescape.medicinereminder:id/view_tree_saved_state_registry_owner : reachable=true
+@com.wwwescape.medicinereminder:id/view_tree_view_model_store_owner : reachable=true
+@com.wwwescape.medicinereminder:id/wide : reachable=false
+@com.wwwescape.medicinereminder:id/wrapped_composition_tag : reachable=true
+@com.wwwescape.medicinereminder:integer/google_play_services_version : reachable=true
+@com.wwwescape.medicinereminder:integer/status_bar_notification_info_maxnum : reachable=false
+@com.wwwescape.medicinereminder:layout/custom_dialog : reachable=false
+@com.wwwescape.medicinereminder:layout/ime_base_split_test_activity : reachable=true
+@com.wwwescape.medicinereminder:layout/ime_secondary_split_test_activity : reachable=true
+@com.wwwescape.medicinereminder:layout/notification_action : reachable=true
+    @com.wwwescape.medicinereminder:style/Widget_Compat_NotificationActionContainer
+    @com.wwwescape.medicinereminder:dimen/notification_action_icon_size
+    @com.wwwescape.medicinereminder:style/Widget_Compat_NotificationActionText
+@com.wwwescape.medicinereminder:layout/notification_action_tombstone : reachable=true
+    @com.wwwescape.medicinereminder:style/Widget_Compat_NotificationActionContainer
+    @com.wwwescape.medicinereminder:dimen/notification_action_icon_size
+    @com.wwwescape.medicinereminder:style/Widget_Compat_NotificationActionText
+@com.wwwescape.medicinereminder:layout/notification_template_custom_big : reachable=true
+    @com.wwwescape.medicinereminder:layout/notification_template_icon_group
+    @com.wwwescape.medicinereminder:dimen/notification_large_icon_width
+    @com.wwwescape.medicinereminder:dimen/notification_large_icon_height
+    @com.wwwescape.medicinereminder:dimen/notification_right_side_padding_top
+    @com.wwwescape.medicinereminder:layout/notification_template_part_time
+    @com.wwwescape.medicinereminder:layout/notification_template_part_chronometer
+    @com.wwwescape.medicinereminder:style/TextAppearance_Compat_Notification_Info
+@com.wwwescape.medicinereminder:layout/notification_template_icon_group : reachable=true
+    @com.wwwescape.medicinereminder:dimen/notification_large_icon_width
+    @com.wwwescape.medicinereminder:dimen/notification_large_icon_height
+    @com.wwwescape.medicinereminder:dimen/notification_big_circle_margin
+    @com.wwwescape.medicinereminder:dimen/notification_right_icon_size
+@com.wwwescape.medicinereminder:layout/notification_template_part_chronometer : reachable=true
+    @com.wwwescape.medicinereminder:style/TextAppearance_Compat_Notification_Time
+@com.wwwescape.medicinereminder:layout/notification_template_part_time : reachable=true
+    @com.wwwescape.medicinereminder:style/TextAppearance_Compat_Notification_Time
+@com.wwwescape.medicinereminder:mipmap/ic_launcher : reachable=true
+    @com.wwwescape.medicinereminder:drawable/ic_launcher_background
+    @com.wwwescape.medicinereminder:drawable/ic_launcher_foreground
+    @com.wwwescape.medicinereminder:drawable/ic_launcher_monochrome
+@com.wwwescape.medicinereminder:mipmap/ic_launcher_round : reachable=true
+    @com.wwwescape.medicinereminder:drawable/ic_launcher_background
+    @com.wwwescape.medicinereminder:drawable/ic_launcher_foreground
+    @com.wwwescape.medicinereminder:drawable/ic_launcher_monochrome
+@com.wwwescape.medicinereminder:plurals/notification_title_many : reachable=true
+@com.wwwescape.medicinereminder:plurals/wear_m3c_time_picker_hours_content_description : reachable=false
+@com.wwwescape.medicinereminder:plurals/wear_m3c_time_picker_minutes_content_description : reachable=false
+@com.wwwescape.medicinereminder:plurals/wear_m3c_time_picker_seconds_content_description : reachable=false
+@com.wwwescape.medicinereminder:raw/keep : reachable=false
+@com.wwwescape.medicinereminder:string/action_allow : reachable=true
+@com.wwwescape.medicinereminder:string/action_close : reachable=true
+@com.wwwescape.medicinereminder:string/action_skip : reachable=true
+@com.wwwescape.medicinereminder:string/action_snooze : reachable=true
+@com.wwwescape.medicinereminder:string/action_take : reachable=true
+@com.wwwescape.medicinereminder:string/action_take_all : reachable=true
+@com.wwwescape.medicinereminder:string/androidx_compose_foundation_autofill : reachable=false
+@com.wwwescape.medicinereminder:string/androidx_compose_ui_autofill : reachable=false
+@com.wwwescape.medicinereminder:string/androidx_startup : reachable=true
+@com.wwwescape.medicinereminder:string/app_name : reachable=true
+@com.wwwescape.medicinereminder:string/call_notification_answer_action : reachable=false
+@com.wwwescape.medicinereminder:string/call_notification_answer_video_action : reachable=false
+@com.wwwescape.medicinereminder:string/call_notification_decline_action : reachable=false
+@com.wwwescape.medicinereminder:string/call_notification_hang_up_action : reachable=false
+@com.wwwescape.medicinereminder:string/call_notification_incoming_text : reachable=false
+@com.wwwescape.medicinereminder:string/call_notification_ongoing_text : reachable=false
+@com.wwwescape.medicinereminder:string/call_notification_screening_text : reachable=false
+@com.wwwescape.medicinereminder:string/close_drawer : reachable=false
+@com.wwwescape.medicinereminder:string/close_sheet : reachable=false
+@com.wwwescape.medicinereminder:string/common_google_play_services_enable_button : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_enable_text : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_enable_title : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_install_button : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_install_text : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_install_title : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_notification_channel_name : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_notification_ticker : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_unknown_issue : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_unsupported_text : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_update_button : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_update_text : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_update_title : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_updating_text : reachable=true
+@com.wwwescape.medicinereminder:string/common_google_play_services_wear_update_text : reachable=true
+@com.wwwescape.medicinereminder:string/common_open_on_phone : reachable=true
+@com.wwwescape.medicinereminder:string/common_signin_button_text : reachable=false
+@com.wwwescape.medicinereminder:string/common_signin_button_text_long : reachable=false
+@com.wwwescape.medicinereminder:string/default_error_message : reachable=false
+@com.wwwescape.medicinereminder:string/default_popup_window_title : reachable=false
+@com.wwwescape.medicinereminder:string/dropdown_menu : reachable=false
+@com.wwwescape.medicinereminder:string/in_progress : reachable=true
+@com.wwwescape.medicinereminder:string/indeterminate : reachable=true
+@com.wwwescape.medicinereminder:string/navigation_menu : reachable=false
+@com.wwwescape.medicinereminder:string/not_selected : reachable=true
+@com.wwwescape.medicinereminder:string/notification_channel_reminders : reachable=true
+@com.wwwescape.medicinereminder:string/notification_channel_reminders_description : reachable=true
+@com.wwwescape.medicinereminder:string/notification_title_one : reachable=true
+@com.wwwescape.medicinereminder:string/range_end : reachable=false
+@com.wwwescape.medicinereminder:string/range_start : reachable=false
+@com.wwwescape.medicinereminder:string/selected : reachable=true
+@com.wwwescape.medicinereminder:string/snackbar_pane_title : reachable=false
+@com.wwwescape.medicinereminder:string/state_empty : reachable=true
+@com.wwwescape.medicinereminder:string/state_off : reachable=true
+@com.wwwescape.medicinereminder:string/state_on : reachable=true
+@com.wwwescape.medicinereminder:string/status_allow_full_screen : reachable=true
+@com.wwwescape.medicinereminder:string/status_allow_notifications : reachable=true
+@com.wwwescape.medicinereminder:string/status_bar_notification_info_overflow : reachable=false
+@com.wwwescape.medicinereminder:string/status_phone_hint : reachable=true
+@com.wwwescape.medicinereminder:string/status_ready : reachable=true
+@com.wwwescape.medicinereminder:string/switch_role : reachable=true
+@com.wwwescape.medicinereminder:string/tab : reachable=true
+@com.wwwescape.medicinereminder:string/template_percent : reachable=true
+@com.wwwescape.medicinereminder:string/test_label : reachable=true
+@com.wwwescape.medicinereminder:string/tooltip_description : reachable=false
+@com.wwwescape.medicinereminder:string/tooltip_label : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_alert_dialog_content_description_confirm_button : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_alert_dialog_content_description_dismiss_button : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_date_picker_day : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_date_picker_heading : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_date_picker_month : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_date_picker_year : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_open_on_phone : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_open_on_phone_icon_content_description : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_picker_click_to_adjust_hint : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_picker_click_to_select_hint : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_picker_confirm_button_content_description : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_picker_next_button_content_description : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_slider_decrease_content_description : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_slider_increase_content_description : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_time_picker_heading : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_time_picker_hour : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_time_picker_minute : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_time_picker_period : reachable=false
+@com.wwwescape.medicinereminder:string/wear_m3c_time_picker_second : reachable=false
+@com.wwwescape.medicinereminder:style/DialogWindowTheme : reachable=false
+@com.wwwescape.medicinereminder:style/FloatingDialogWindowTheme : reachable=true
+@com.wwwescape.medicinereminder:style/TextAppearance_Compat_Notification : reachable=true
+@com.wwwescape.medicinereminder:style/TextAppearance_Compat_Notification_Info : reachable=true
+@com.wwwescape.medicinereminder:style/TextAppearance_Compat_Notification_Line2 : reachable=true
+    @com.wwwescape.medicinereminder:style/TextAppearance_Compat_Notification_Info
+@com.wwwescape.medicinereminder:style/TextAppearance_Compat_Notification_Time : reachable=true
+@com.wwwescape.medicinereminder:style/TextAppearance_Compat_Notification_Title : reachable=true
+@com.wwwescape.medicinereminder:style/Widget_Compat_NotificationActionContainer : reachable=false
+    @com.wwwescape.medicinereminder:drawable/notification_action_background
+@com.wwwescape.medicinereminder:style/Widget_Compat_NotificationActionText : reachable=false
+    @com.wwwescape.medicinereminder:color/androidx_core_secondary_text_default_material_light
+    @com.wwwescape.medicinereminder:dimen/notification_action_text_size
+
+The root reachable resources are:
+ array:android_wear_capabilities:2130771968
+ attr:alpha:2130837506
+ attr:clearTop:2130837511
+ attr:lStar:2130837536
+ attr:shortcutMatchRequired:2130837544
+ color:notification_action_color_filter:2130903055
+ color:notification_icon_bg_color:2130903056
+ color:vector_tint_color:2130903057
+ color:vector_tint_theme_color:2130903058
+ dimen:notification_action_icon_size:2130968583
+ dimen:notification_action_text_size:2130968584
+ dimen:notification_big_circle_margin:2130968585
+ dimen:notification_content_margin_start:2130968586
+ dimen:notification_large_icon_height:2130968587
+ dimen:notification_large_icon_width:2130968588
+ dimen:notification_main_column_padding_top:2130968589
+ dimen:notification_media_narrow_margin:2130968590
+ dimen:notification_right_icon_size:2130968591
+ dimen:notification_right_side_padding_top:2130968592
+ dimen:notification_small_icon_background_padding:2130968593
+ dimen:notification_small_icon_size_as_large:2130968594
+ dimen:notification_subtext_size:2130968595
+ dimen:notification_top_pad:2130968596
+ dimen:notification_top_pad_large_text:2130968597
+ drawable:common_full_open_on_phone:2131034154
+ drawable:ic_launcher_foreground:2131034182
+ drawable:ic_stat_prescriptions:2131034184
+ drawable:notification_action_background:2131034185
+ drawable:notification_bg:2131034186
+ drawable:notification_bg_low:2131034187
+ drawable:notification_bg_low_normal:2131034188
+ drawable:notification_bg_low_pressed:2131034189
+ drawable:notification_bg_normal:2131034190
+ drawable:notification_bg_normal_pressed:2131034191
+ drawable:notification_icon_background:2131034192
+ drawable:notification_oversize_large_icon_bg:2131034193
+ drawable:notification_template_icon_bg:2131034194
+ drawable:notification_template_icon_low_bg:2131034195
+ drawable:notification_tile_bg:2131034196
+ id:accessibility_action_clickable_span:2131099648
+ id:accessibility_custom_action_0:2131099649
+ id:accessibility_custom_action_1:2131099650
+ id:accessibility_custom_action_10:2131099651
+ id:accessibility_custom_action_11:2131099652
+ id:accessibility_custom_action_12:2131099653
+ id:accessibility_custom_action_13:2131099654
+ id:accessibility_custom_action_14:2131099655
+ id:accessibility_custom_action_15:2131099656
+ id:accessibility_custom_action_16:2131099657
+ id:accessibility_custom_action_17:2131099658
+ id:accessibility_custom_action_18:2131099659
+ id:accessibility_custom_action_19:2131099660
+ id:accessibility_custom_action_2:2131099661
+ id:accessibility_custom_action_20:2131099662
+ id:accessibility_custom_action_21:2131099663
+ id:accessibility_custom_action_22:2131099664
+ id:accessibility_custom_action_23:2131099665
+ id:accessibility_custom_action_24:2131099666
+ id:accessibility_custom_action_25:2131099667
+ id:accessibility_custom_action_26:2131099668
+ id:accessibility_custom_action_27:2131099669
+ id:accessibility_custom_action_28:2131099670
+ id:accessibility_custom_action_29:2131099671
+ id:accessibility_custom_action_3:2131099672
+ id:accessibility_custom_action_30:2131099673
+ id:accessibility_custom_action_31:2131099674
+ id:accessibility_custom_action_4:2131099675
+ id:accessibility_custom_action_5:2131099676
+ id:accessibility_custom_action_6:2131099677
+ id:accessibility_custom_action_7:2131099678
+ id:accessibility_custom_action_8:2131099679
+ id:accessibility_custom_action_9:2131099680
+ id:action_container:2131099681
+ id:action_divider:2131099682
+ id:action_image:2131099683
+ id:action_text:2131099684
+ id:actions:2131099685
+ id:androidx_compose_ui_view_compose_view_context:2131099692
+ id:androidx_compose_ui_view_composition_context:2131099693
+ id:auto_clear_focus_behavior_tag:2131099697
+ id:compose_prefetch_scheduler:2131099701
+ id:compose_view_saveable_id_tag:2131099702
+ id:hide_in_inspector_tag:2131099714
+ id:icon:2131099715
+ id:icon_group:2131099716
+ id:icon_only:2131099717
+ id:inspection_slot_table_set:2131099719
+ id:is_pooling_container_tag:2131099720
+ id:notification_background:2131099731
+ id:notification_main_column:2131099732
+ id:notification_main_column_container:2131099733
+ id:pooling_container_listener_holder_tag:2131099735
+ id:report_drawn:2131099736
+ id:tag_accessibility_actions:2131099744
+ id:tag_accessibility_clickable_spans:2131099745
+ id:tag_compat_insets_dispatch:2131099748
+ id:tag_window_insets_animation_callback:2131099758
+ id:text:2131099759
+ id:text2:2131099760
+ id:time:2131099761
+ id:title:2131099762
+ id:view_tree_disjoint_parent:2131099772
+ id:view_tree_lifecycle_owner:2131099773
+ id:view_tree_on_back_pressed_dispatcher_owner:2131099774
+ id:view_tree_saved_state_registry_owner:2131099775
+ id:view_tree_view_model_store_owner:2131099776
+ id:wrapped_composition_tag:2131099778
+ integer:google_play_services_version:2131165184
+ layout:ime_base_split_test_activity:2131230721
+ layout:ime_secondary_split_test_activity:2131230722
+ layout:notification_action:2131230723
+ layout:notification_action_tombstone:2131230724
+ layout:notification_template_custom_big:2131230725
+ layout:notification_template_icon_group:2131230726
+ layout:notification_template_part_chronometer:2131230727
+ layout:notification_template_part_time:2131230728
+ mipmap:ic_launcher:2131296256
+ mipmap:ic_launcher_round:2131296257
+ plurals:notification_title_many:2131361792
+ string:action_allow:2131492864
+ string:action_close:2131492865
+ string:action_skip:2131492866
+ string:action_snooze:2131492867
+ string:action_take:2131492868
+ string:action_take_all:2131492869
+ string:androidx_startup:2131492872
+ string:app_name:2131492873
+ string:common_google_play_services_enable_button:2131492883
+ string:common_google_play_services_enable_text:2131492884
+ string:common_google_play_services_enable_title:2131492885
+ string:common_google_play_services_install_button:2131492886
+ string:common_google_play_services_install_text:2131492887
+ string:common_google_play_services_install_title:2131492888
+ string:common_google_play_services_notification_channel_name:2131492889
+ string:common_google_play_services_notification_ticker:2131492890
+ string:common_google_play_services_unknown_issue:2131492891
+ string:common_google_play_services_unsupported_text:2131492892
+ string:common_google_play_services_update_button:2131492893
+ string:common_google_play_services_update_text:2131492894
+ string:common_google_play_services_update_title:2131492895
+ string:common_google_play_services_updating_text:2131492896
+ string:common_google_play_services_wear_update_text:2131492897
+ string:common_open_on_phone:2131492898
+ string:in_progress:2131492904
+ string:indeterminate:2131492905
+ string:not_selected:2131492907
+ string:notification_channel_reminders:2131492908
+ string:notification_channel_reminders_description:2131492909
+ string:notification_title_one:2131492910
+ string:selected:2131492913
+ string:state_empty:2131492915
+ string:state_off:2131492916
+ string:state_on:2131492917
+ string:status_allow_full_screen:2131492918
+ string:status_allow_notifications:2131492919
+ string:status_phone_hint:2131492921
+ string:status_ready:2131492922
+ string:switch_role:2131492923
+ string:tab:2131492924
+ string:template_percent:2131492925
+ string:test_label:2131492926
+ style:FloatingDialogWindowTheme:2131558401
+ style:TextAppearance_Compat_Notification:2131558402
+ style:TextAppearance_Compat_Notification_Info:2131558403
+ style:TextAppearance_Compat_Notification_Line2:2131558404
+ style:TextAppearance_Compat_Notification_Time:2131558405
+ style:TextAppearance_Compat_Notification_Title:2131558406
+Unused resources are: 
+ color:call_notification_answer_color:2130903042
+ color:call_notification_decline_color:2130903043
+ color:common_google_signin_btn_text_dark:2130903044
+ color:common_google_signin_btn_text_dark_default:2130903045
+ color:common_google_signin_btn_text_dark_disabled:2130903046
+ color:common_google_signin_btn_text_dark_focused:2130903047
+ color:common_google_signin_btn_text_dark_pressed:2130903048
+ color:common_google_signin_btn_text_light:2130903049
+ color:common_google_signin_btn_text_light_default:2130903050
+ color:common_google_signin_btn_text_light_disabled:2130903051
+ color:common_google_signin_btn_text_light_focused:2130903052
+ color:common_google_signin_btn_text_light_pressed:2130903053
+ color:common_google_signin_btn_tint:2130903054
+ dimen:compat_notification_large_icon_max_height:2130968581
+ dimen:compat_notification_large_icon_max_width:2130968582
+ drawable:$wear_m3c_check_animation__0:2131034112
+ drawable:$wear_m3c_check_animation__1:2131034113
+ drawable:$wear_m3c_check_animation__2:2131034114
+ drawable:$wear_m3c_check_animation__3:2131034115
+ drawable:$wear_m3c_failure_animation__0:2131034116
+ drawable:$wear_m3c_failure_animation__1:2131034117
+ drawable:$wear_m3c_failure_animation__10:2131034118
+ drawable:$wear_m3c_failure_animation__11:2131034119
+ drawable:$wear_m3c_failure_animation__2:2131034120
+ drawable:$wear_m3c_failure_animation__3:2131034121
+ drawable:$wear_m3c_failure_animation__4:2131034122
+ drawable:$wear_m3c_failure_animation__5:2131034123
+ drawable:$wear_m3c_failure_animation__6:2131034124
+ drawable:$wear_m3c_failure_animation__7:2131034125
+ drawable:$wear_m3c_failure_animation__8:2131034126
+ drawable:$wear_m3c_failure_animation__9:2131034127
+ drawable:$wear_m3c_open_on_phone_animation__0:2131034128
+ drawable:$wear_m3c_open_on_phone_animation__1:2131034129
+ drawable:$wear_m3c_open_on_phone_animation__10:2131034130
+ drawable:$wear_m3c_open_on_phone_animation__11:2131034131
+ drawable:$wear_m3c_open_on_phone_animation__12:2131034132
+ drawable:$wear_m3c_open_on_phone_animation__13:2131034133
+ drawable:$wear_m3c_open_on_phone_animation__14:2131034134
+ drawable:$wear_m3c_open_on_phone_animation__15:2131034135
+ drawable:$wear_m3c_open_on_phone_animation__16:2131034136
+ drawable:$wear_m3c_open_on_phone_animation__17:2131034137
+ drawable:$wear_m3c_open_on_phone_animation__18:2131034138
+ drawable:$wear_m3c_open_on_phone_animation__19:2131034139
+ drawable:$wear_m3c_open_on_phone_animation__2:2131034140
+ drawable:$wear_m3c_open_on_phone_animation__20:2131034141
+ drawable:$wear_m3c_open_on_phone_animation__21:2131034142
+ drawable:$wear_m3c_open_on_phone_animation__22:2131034143
+ drawable:$wear_m3c_open_on_phone_animation__23:2131034144
+ drawable:$wear_m3c_open_on_phone_animation__24:2131034145
+ drawable:$wear_m3c_open_on_phone_animation__25:2131034146
+ drawable:$wear_m3c_open_on_phone_animation__3:2131034147
+ drawable:$wear_m3c_open_on_phone_animation__4:2131034148
+ drawable:$wear_m3c_open_on_phone_animation__5:2131034149
+ drawable:$wear_m3c_open_on_phone_animation__6:2131034150
+ drawable:$wear_m3c_open_on_phone_animation__7:2131034151
+ drawable:$wear_m3c_open_on_phone_animation__8:2131034152
+ drawable:$wear_m3c_open_on_phone_animation__9:2131034153
+ drawable:common_google_signin_btn_icon_dark:2131034155
+ drawable:common_google_signin_btn_icon_dark_focused:2131034156
+ drawable:common_google_signin_btn_icon_dark_normal:2131034157
+ drawable:common_google_signin_btn_icon_dark_normal_background:2131034158
+ drawable:common_google_signin_btn_icon_disabled:2131034159
+ drawable:common_google_signin_btn_icon_light:2131034160
+ drawable:common_google_signin_btn_icon_light_focused:2131034161
+ drawable:common_google_signin_btn_icon_light_normal:2131034162
+ drawable:common_google_signin_btn_icon_light_normal_background:2131034163
+ drawable:common_google_signin_btn_text_dark:2131034164
+ drawable:common_google_signin_btn_text_dark_focused:2131034165
+ drawable:common_google_signin_btn_text_dark_normal:2131034166
+ drawable:common_google_signin_btn_text_dark_normal_background:2131034167
+ drawable:common_google_signin_btn_text_disabled:2131034168
+ drawable:common_google_signin_btn_text_light:2131034169
+ drawable:common_google_signin_btn_text_light_focused:2131034170
+ drawable:common_google_signin_btn_text_light_normal:2131034171
+ drawable:common_google_signin_btn_text_light_normal_background:2131034172
+ drawable:googleg_disabled_color_18:2131034173
+ drawable:googleg_standard_color_18:2131034174
+ drawable:ic_call_answer:2131034175
+ drawable:ic_call_answer_low:2131034176
+ drawable:ic_call_answer_video:2131034177
+ drawable:ic_call_answer_video_low:2131034178
+ drawable:ic_call_decline:2131034179
+ drawable:ic_call_decline_low:2131034180
+ drawable:wear_m3c_check_animation:2131034198
+ drawable:wear_m3c_failure_animation:2131034199
+ drawable:wear_m3c_open_on_phone_animation:2131034200
+ id:adjacent:2131099686
+ id:adjust_height:2131099687
+ id:adjust_width:2131099688
+ id:always:2131099689
+ id:alwaysAllow:2131099690
+ id:alwaysDisallow:2131099691
+ id:androidx_window_activity_scope:2131099694
+ id:async:2131099695
+ id:auto:2131099696
+ id:blocking:2131099698
+ id:bottomToTop:2131099699
+ id:chronometer:2131099700
+ id:consume_window_insets_tag:2131099703
+ id:dark:2131099704
+ id:dialog_button:2131099705
+ id:draggable:2131099706
+ id:edit_text_id:2131099707
+ id:fixed:2131099708
+ id:forever:2131099709
+ id:ghost_view:2131099710
+ id:ghost_view_holder:2131099711
+ id:hide_graphics_layer_in_inspector_tag:2131099712
+ id:hide_ime_id:2131099713
+ id:info:2131099718
+ id:italic:2131099721
+ id:jumpCut:2131099722
+ id:light:2131099723
+ id:line1:2131099724
+ id:line3:2131099725
+ id:locale:2131099726
+ id:ltr:2131099727
+ id:never:2131099728
+ id:none:2131099729
+ id:normal:2131099730
+ id:parent_matrix:2131099734
+ id:right_icon:2131099737
+ id:right_side:2131099738
+ id:rtl:2131099739
+ id:save_non_transition_alpha:2131099740
+ id:save_overlay_view:2131099741
+ id:standard:2131099742
+ id:systemDefault:2131099743
+ id:tag_accessibility_heading:2131099746
+ id:tag_accessibility_pane_title:2131099747
+ id:tag_on_apply_window_listener:2131099749
+ id:tag_on_receive_content_listener:2131099750
+ id:tag_on_receive_content_mime_types:2131099751
+ id:tag_screen_reader_focusable:2131099752
+ id:tag_state_description:2131099753
+ id:tag_system_bar_state_monitor:2131099754
+ id:tag_transition_group:2131099755
+ id:tag_unhandled_key_event_manager:2131099756
+ id:tag_unhandled_key_listeners:2131099757
+ id:topToBottom:2131099763
+ id:transition_clip:2131099764
+ id:transition_current_scene:2131099765
+ id:transition_image_transform:2131099766
+ id:transition_layout_save:2131099767
+ id:transition_pause_alpha:2131099768
+ id:transition_position:2131099769
+ id:transition_scene_layoutid_cache:2131099770
+ id:transition_transform:2131099771
+ id:wide:2131099777
+ integer:status_bar_notification_info_maxnum:2131165185
+ layout:custom_dialog:2131230720
+ plurals:wear_m3c_time_picker_hours_content_description:2131361793
+ plurals:wear_m3c_time_picker_minutes_content_description:2131361794
+ plurals:wear_m3c_time_picker_seconds_content_description:2131361795
+ raw:keep:2131427328
+ string:androidx_compose_foundation_autofill:2131492870
+ string:androidx_compose_ui_autofill:2131492871
+ string:call_notification_answer_action:2131492874
+ string:call_notification_answer_video_action:2131492875
+ string:call_notification_decline_action:2131492876
+ string:call_notification_hang_up_action:2131492877
+ string:call_notification_incoming_text:2131492878
+ string:call_notification_ongoing_text:2131492879
+ string:call_notification_screening_text:2131492880
+ string:close_drawer:2131492881
+ string:close_sheet:2131492882
+ string:common_signin_button_text:2131492899
+ string:common_signin_button_text_long:2131492900
+ string:default_error_message:2131492901
+ string:default_popup_window_title:2131492902
+ string:dropdown_menu:2131492903
+ string:navigation_menu:2131492906
+ string:range_end:2131492911
+ string:range_start:2131492912
+ string:snackbar_pane_title:2131492914
+ string:status_bar_notification_info_overflow:2131492920
+ string:tooltip_description:2131492927
+ string:tooltip_label:2131492928
+ string:wear_m3c_alert_dialog_content_description_confirm_button:2131492929
+ string:wear_m3c_alert_dialog_content_description_dismiss_button:2131492930
+ string:wear_m3c_date_picker_day:2131492931
+ string:wear_m3c_date_picker_heading:2131492932
+ string:wear_m3c_date_picker_month:2131492933
+ string:wear_m3c_date_picker_year:2131492934
+ string:wear_m3c_open_on_phone:2131492935
+ string:wear_m3c_open_on_phone_icon_content_description:2131492936
+ string:wear_m3c_picker_click_to_adjust_hint:2131492937
+ string:wear_m3c_picker_click_to_select_hint:2131492938
+ string:wear_m3c_picker_confirm_button_content_description:2131492939
+ string:wear_m3c_picker_next_button_content_description:2131492940
+ string:wear_m3c_slider_decrease_content_description:2131492941
+ string:wear_m3c_slider_increase_content_description:2131492942
+ string:wear_m3c_time_picker_heading:2131492943
+ string:wear_m3c_time_picker_hour:2131492944
+ string:wear_m3c_time_picker_minute:2131492945
+ string:wear_m3c_time_picker_period:2131492946
+ string:wear_m3c_time_picker_second:2131492947
+ style:DialogWindowTheme:2131558400

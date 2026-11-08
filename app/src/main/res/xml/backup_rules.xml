@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto Backup on Android 11 and lower (see data_extraction_rules.xml for 12+). Courses,
+     medicines, the dose log, prescription files and preferences are all backed up, so a new
+     phone picks up where the old one left off. -->
+<full-backup-content>
+    <include domain="database" path="." />
+    <include domain="file" path="prescriptions/" />
+        <include domain="file" path="photos/" />
+        <include domain="file" path="documents/" />
+    <include domain="file" path="datastore/settings.preferences_pb" />
+    <include domain="sharedpref" path="theme_prefs_sync.xml" />
+</full-backup-content>

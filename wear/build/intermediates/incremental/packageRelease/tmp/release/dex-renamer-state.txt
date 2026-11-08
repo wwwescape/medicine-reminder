@@ -1,0 +1,4 @@
+#Tue Nov 10 10:35:36 IST 2026
+base.0=D\:\\Dev\\GitHub\\wwwescape\\Medicine Reminder\\wear\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
